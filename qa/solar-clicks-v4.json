@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sun",
+    "name": "太阳",
+    "src": "/assets/sun.jpg",
+    "parameters": "平均轨道距离\n0 AU\n平均半径\n695,700 km\n真实自转周期（近似）\n25–36 d\n展示自转 / 公转周期\n360 s / — s"
+  },
+  {
+    "id": "mercury",
+    "name": "水星",
+    "src": "/assets/mercury.jpg",
+    "parameters": "平均轨道距离\n0.387 AU\n平均半径\n2,439.7 km\n真实自转周期（近似）\n1407.6 h\n真实公转周期\n87.97 d\n展示自转 / 公转周期\n540 s / 300 s"
+  },
+  {
+    "id": "venus",
+    "name": "金星",
+    "src": "/assets/venus.jpg",
+    "parameters": "平均轨道距离\n0.723 AU\n平均半径\n6,051.8 km\n真实自转周期（近似）\n5832.5 h\n真实公转周期\n224.7 d\n展示自转 / 公转周期\n780 s / 480 s"
+  },
+  {
+    "id": "earth",
+    "name": "地球",
+    "src": "/assets/earth-blue-marble.jpg",
+    "parameters": "平均轨道距离\n1 AU\n平均半径\n6,371 km\n真实自转周期（近似）\n23.934 h\n真实公转周期\n365.256 d\n展示自转 / 公转周期\n180 s / 720 s"
+  },
+  {
+    "id": "moon",
+    "name": "月球",
+    "src": "/assets/moon.jpg",
+    "parameters": "平均距地球\n≈ 385,000 km\n平均半径\n1,737.4 km\n真实自转周期（近似）\n655.2 h\n真实公转周期\n27.3 d\n展示自转 / 公转周期\n60 s / 60 s"
+  },
+  {
+    "id": "mars",
+    "name": "火星",
+    "src": "/assets/mars.jpg",
+    "parameters": "平均轨道距离\n1.524 AU\n平均半径\n3,389.5 km\n真实自转周期（近似）\n24.623 h\n真实公转周期\n686.98 d\n展示自转 / 公转周期\n195 s / 1080 s"
+  },
+  {
+    "id": "jupiter",
+    "name": "木星",
+    "src": "/assets/jupiter.jpg",
+    "parameters": "平均轨道距离\n5.203 AU\n平均半径\n69,911 km\n真实自转周期（近似）\n9.925 h\n真实公转周期\n4332.6 d\n展示自转 / 公转周期\n90 s / 1800 s"
+  },
+  {
+    "id": "saturn",
+    "name": "土星",
+    "src": "/assets/saturn.jpg",
+    "parameters": "平均轨道距离\n9.537 AU\n平均半径\n58,232 km\n真实自转周期（近似）\n10.7 h\n真实公转周期\n10759.2 d\n展示自转 / 公转周期\n120 s / 2400 s"
+  },
+  {
+    "id": "uranus",
+    "name": "天王星",
+    "src": "/assets/uranus.jpg",
+    "parameters": "平均轨道距离\n19.19 AU\n平均半径\n25,362 km\n真实自转周期（近似）\n17.24 h\n真实公转周期\n30688.5 d\n展示自转 / 公转周期\n150 s / 3200 s"
+  },
+  {
+    "id": "neptune",
+    "name": "海王星",
+    "src": "/assets/neptune.jpg",
+    "parameters": "平均轨道距离\n30.07 AU\n平均半径\n24,622 km\n真实自转周期（近似）\n16.11 h\n真实公转周期\n60182 d\n展示自转 / 公转周期\n160 s / 4000 s"
+  }
+]

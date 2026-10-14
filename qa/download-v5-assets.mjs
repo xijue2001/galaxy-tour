@@ -1,0 +1,7 @@
+import fs from 'node:fs/promises';
+import {NEARBY_GALAXIES} from '../src/nearby-galaxies.js';
+const records=NEARBY_GALAXIES.map(d=>({id:d.id,resource:d.image.resourceUrl,page:d.image.sourceUrl,credit:d.image.credit}));
+records.push({id:'planck-cmb-2018',resource:'https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/07/planck_s_view_of_the_cosmic_microwave_background2/17601831-1-eng-GB/Planck_s_view_of_the_cosmic_microwave_background.jpg',page:'https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background2',credit:'ESA/Planck Collaboration'});
+records.push({id:'laniakea-flow',resource:'https://public.nrao.edu/wp-content/uploads/2014/09/imagesnon-gallery2014c-blue09-02-GBTSuperclusterGBTSupercluster2_nrao-1024x575.jpg',page:'https://public.nrao.edu/news/supercluster-gbt/',credit:'SDvision interactive visualization software by DP at CEA/Saclay, France; research: R. Brent Tully et al. (2014)'});
+for(const r of records){try{r.bytes=(await fs.stat('assets/'+r.id+'.jpg')).size;}catch{const resp=await fetch(r.resource,{signal:AbortSignal.timeout(45000)});if(!resp.ok||!resp.headers.get('content-type')?.startsWith('image/'))throw Error(r.id+': '+resp.status);const bytes=Buffer.from(await resp.arrayBuffer());await fs.writeFile('assets/'+r.id+'.jpg',bytes);r.bytes=bytes.length;}console.log(r.id,r.bytes);}
+await fs.writeFile('qa/v5-image-sources.json',JSON.stringify(records,null,2)+'\n');

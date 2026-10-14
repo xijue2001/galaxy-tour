@@ -1,0 +1,863 @@
+{
+  "checkedAt": "2026-10-10T07:38:48.193Z",
+  "fullTour": "full-tour-v2.json",
+  "qualityResults": [
+    {
+      "version": "2.0",
+      "seed": 731927,
+      "threeVersion": "180",
+      "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "language": "ja",
+      "quality": "low",
+      "mode": "explore",
+      "elapsed": 160,
+      "playing": false,
+      "phase": "pullback",
+      "destinationId": "sagittarius-a",
+      "holdRemaining": 0,
+      "localWeight": 0,
+      "selectedId": "orion-nebula",
+      "sidebarOpen": false,
+      "imageId": "orion-nebula",
+      "imageState": "loaded",
+      "starCount": 60000,
+      "galaxyStarCount": 60000,
+      "localCounts": {
+        "starCount": 1228,
+        "dustCount": 0,
+        "gasCount": 0,
+        "stellarMeshCount": 0
+      },
+      "dustCount": 1400,
+      "populations": {
+        "bulge": 3769,
+        "bar": 9841,
+        "thinDisc": 18400,
+        "thickDisc": 2511,
+        "arms": 15980,
+        "youngClusters": 6148,
+        "halo": 1151
+      },
+      "armCounts": {
+        "scutum-centaurus": 7516,
+        "perseus": 6313,
+        "sagittarius": 2881,
+        "norma": 2013,
+        "local": 1813,
+        "outer-fragment": 1592
+      },
+      "positions": {
+        "solar-system": [
+          32.8,
+          0.0832,
+          0
+        ],
+        "alpha-centauri": [
+          32.79616179190134,
+          0.08313795226224348,
+          -0.0037399726171664415
+        ],
+        "pleiades": [
+          33.285063969228126,
+          -0.1349285708072692,
+          0.1167875893866778
+        ],
+        "orion-nebula": [
+          34.16587199857899,
+          -0.4662456724945471,
+          -0.7574112941920697
+        ],
+        "crab-nebula": [
+          40.70601508707439,
+          -0.720072408539564,
+          -0.6298120393540024
+        ],
+        "sagittarius-a": [
+          0,
+          0,
+          0
+        ]
+      },
+      "model": "MW-reconstruction-2026.2",
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1
+      },
+      "fps": 164.98927569708076,
+      "frameMean": 6.060999999999961,
+      "p95": 6.2000000000116415,
+      "drawCalls": 7,
+      "sampling": false,
+      "benchmark": {
+        "frames": 4293,
+        "milliseconds": 26032,
+        "startElapsed": 160,
+        "seeks": 0,
+        "pauses": 0,
+        "completed": false,
+        "uninterrupted": false
+      },
+      "phaseStats": [
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        }
+      ],
+      "lastInteraction": null,
+      "errors": [],
+      "contextLost": false,
+      "camera": [
+        111.99999999972675,
+        73.99999999981951,
+        81.99999999980008
+      ],
+      "localCamera": [
+        2.3,
+        2.3,
+        17
+      ]
+    },
+    {
+      "version": "2.0",
+      "seed": 731927,
+      "threeVersion": "180",
+      "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "language": "ja",
+      "quality": "high",
+      "mode": "explore",
+      "elapsed": 160,
+      "playing": false,
+      "phase": "pullback",
+      "destinationId": "sagittarius-a",
+      "holdRemaining": 0,
+      "localWeight": 0,
+      "selectedId": "orion-nebula",
+      "sidebarOpen": false,
+      "imageId": "orion-nebula",
+      "imageState": "loaded",
+      "starCount": 260000,
+      "galaxyStarCount": 260000,
+      "localCounts": {
+        "starCount": 2970,
+        "dustCount": 0,
+        "gasCount": 0,
+        "stellarMeshCount": 0
+      },
+      "dustCount": 4500,
+      "populations": {
+        "bulge": 16665,
+        "bar": 43408,
+        "thinDisc": 81453,
+        "thickDisc": 11330,
+        "arms": 70450,
+        "youngClusters": 26587,
+        "halo": 5107
+      },
+      "armCounts": {
+        "scutum-centaurus": 32974,
+        "perseus": 27758,
+        "sagittarius": 12544,
+        "norma": 8948,
+        "local": 8125,
+        "outer-fragment": 6688
+      },
+      "positions": {
+        "solar-system": [
+          32.8,
+          0.0832,
+          0
+        ],
+        "alpha-centauri": [
+          32.79616179190134,
+          0.08313795226224348,
+          -0.0037399726171664415
+        ],
+        "pleiades": [
+          33.285063969228126,
+          -0.1349285708072692,
+          0.1167875893866778
+        ],
+        "orion-nebula": [
+          34.16587199857899,
+          -0.4662456724945471,
+          -0.7574112941920697
+        ],
+        "crab-nebula": [
+          40.70601508707439,
+          -0.720072408539564,
+          -0.6298120393540024
+        ],
+        "sagittarius-a": [
+          0,
+          0,
+          0
+        ]
+      },
+      "model": "MW-reconstruction-2026.2",
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1.5
+      },
+      "fps": 164.98927569708076,
+      "frameMean": 6.060999999999961,
+      "p95": 6.2000000000116415,
+      "drawCalls": 20,
+      "sampling": false,
+      "benchmark": {
+        "frames": 2729,
+        "milliseconds": 16576.79999999999,
+        "startElapsed": 160,
+        "seeks": 0,
+        "pauses": 0,
+        "completed": false,
+        "uninterrupted": false
+      },
+      "phaseStats": [
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        }
+      ],
+      "lastInteraction": null,
+      "errors": [],
+      "contextLost": false,
+      "camera": [
+        111.99999999972675,
+        73.99999999981951,
+        81.99999999980008
+      ],
+      "localCamera": [
+        2.3,
+        2.3,
+        17
+      ]
+    },
+    {
+      "version": "2.0",
+      "seed": 731927,
+      "threeVersion": "180",
+      "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "language": "ja",
+      "quality": "medium",
+      "mode": "explore",
+      "elapsed": 160,
+      "playing": false,
+      "phase": "pullback",
+      "destinationId": "sagittarius-a",
+      "holdRemaining": 0,
+      "localWeight": 0,
+      "selectedId": "orion-nebula",
+      "sidebarOpen": false,
+      "imageId": "orion-nebula",
+      "imageState": "loaded",
+      "starCount": 140000,
+      "galaxyStarCount": 140000,
+      "localCounts": {
+        "starCount": 1980,
+        "dustCount": 0,
+        "gasCount": 0,
+        "stellarMeshCount": 0
+      },
+      "dustCount": 2800,
+      "populations": {
+        "bulge": 8999,
+        "bar": 23320,
+        "thinDisc": 43572,
+        "thickDisc": 5991,
+        "arms": 37532,
+        "youngClusters": 14322,
+        "halo": 2764
+      },
+      "armCounts": {
+        "scutum-centaurus": 17567,
+        "perseus": 14827,
+        "sagittarius": 6696,
+        "norma": 4772,
+        "local": 4301,
+        "outer-fragment": 3691
+      },
+      "positions": {
+        "solar-system": [
+          32.8,
+          0.0832,
+          0
+        ],
+        "alpha-centauri": [
+          32.79616179190134,
+          0.08313795226224348,
+          -0.0037399726171664415
+        ],
+        "pleiades": [
+          33.285063969228126,
+          -0.1349285708072692,
+          0.1167875893866778
+        ],
+        "orion-nebula": [
+          34.16587199857899,
+          -0.4662456724945471,
+          -0.7574112941920697
+        ],
+        "crab-nebula": [
+          40.70601508707439,
+          -0.720072408539564,
+          -0.6298120393540024
+        ],
+        "sagittarius-a": [
+          0,
+          0,
+          0
+        ]
+      },
+      "model": "MW-reconstruction-2026.2",
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1.25
+      },
+      "fps": 164.98927569707547,
+      "frameMean": 6.061000000000155,
+      "p95": 6.2000000000116415,
+      "drawCalls": 20,
+      "sampling": false,
+      "benchmark": {
+        "frames": 2936,
+        "milliseconds": 17801.20000000001,
+        "startElapsed": 160,
+        "seeks": 0,
+        "pauses": 0,
+        "completed": false,
+        "uninterrupted": false
+      },
+      "phaseStats": [
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        }
+      ],
+      "lastInteraction": null,
+      "errors": [],
+      "contextLost": false,
+      "camera": [
+        111.99999999972675,
+        73.99999999981951,
+        81.99999999980008
+      ],
+      "localCamera": [
+        2.3,
+        2.3,
+        17
+      ]
+    }
+  ],
+  "detailChecks": [
+    {
+      "credit": "NASA/JPL-Caltech",
+      "name": "太阳系",
+      "src": "/assets/solar-system.jpg",
+      "story": "太阳系包含太阳与八颗行星，年龄约为 46 亿年。本地臂位于人马臂和英仙臂之间。地图采用太阳距银心 8.2 千秒差距的近似模型。",
+      "visible": true,
+      "width": 2925
+    },
+    {
+      "credit": "ESA/Hubble & NASA",
+      "name": "半人马座 α 恒星系统",
+      "src": "/assets/alpha-centauri.jpg",
+      "story": "A/B 距太阳约 4.37 光年，互绕周期约为 80 年。A 是 G 型恒星，B 是 K 型恒星。巡游代表点位于 A/B；更接近太阳的比邻星与 A/B 相隔很远。图片只展示 A/B。",
+      "visible": true,
+      "width": 1280
+    },
+    {
+      "credit": "ESO/S. Brunier",
+      "name": "昴星团 · M45",
+      "src": "/assets/pleiades.jpg",
+      "story": "采用 VLBI 距离 136.2 ± 1.2 秒差距，约 444 ± 4 光年。星团各成员的距离并不完全相同。星团年龄约一亿年，正穿过星际尘埃。尘粒更容易散射蓝光；它与气体本身发光的发射星云具有不同机制。",
+      "visible": true,
+      "width": 1280
+    },
+    {
+      "credit": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team",
+      "name": "猎户座大星云 · M42",
+      "src": "/assets/orion-nebula.jpg",
+      "story": "M42 是猎户座之剑中的电离氢区。梯形星团的恒星辐射和星风塑造了星云。采用 Menten 等（2007）的 VLBI 距离 414 ± 7 秒差距，约 1350 ± 23 光年。不同测量与成员选取给出不同估计；该区域有真实厚度。",
+      "visible": true,
+      "width": 1280
+    },
+    {
+      "credit": "NASA, ESA and Allison Loll/Jeff Hester (Arizona State University). Acknowledgement: Davide De Martin (ESA/Hubble)",
+      "name": "蟹状星云 · M1",
+      "src": "/assets/crab-nebula.jpg",
+      "story": "蟹状星云位于金牛座方向，常用近似距离为 6500 光年。它是大质量恒星死亡后的遗迹。中心是快速自转的中子星。抛出的气体与脉冲星风具有不同的辐射机制；因此局部画面展示外部细丝与内部弥散光两层。",
+      "visible": true,
+      "width": 1280
+    },
+    {
+      "credit": "EHT Collaboration",
+      "name": "银河中心 · Sagittarius A*",
+      "src": "/assets/sagittarius-a.jpg",
+      "story": "黑洞本身不发光，附近热气体的辐射在强引力下弯曲，形成亮环和暗影。采用 8.2 千秒差距、约 26740 光年的地图模型；EHT 页面给出的近似为 27000 光年。地图将标记配准到银心原点，同时保留观测银经银纬。",
+      "visible": true,
+      "width": 1280
+    }
+  ],
+  "mobileChecks": [
+    {
+      "lang": "zh-CN",
+      "name": "猎户座大星云 · M42",
+      "pageScrollWidth": 390,
+      "pageWidth": 390,
+      "sidebarScrollWidth": 379,
+      "sidebarWidth": 379
+    },
+    {
+      "lang": "en",
+      "name": "Orion Nebula · M42",
+      "pageScrollWidth": 390,
+      "pageWidth": 390,
+      "sidebarScrollWidth": 379,
+      "sidebarWidth": 379
+    },
+    {
+      "lang": "ja",
+      "name": "オリオン大星雲 · M42",
+      "pageScrollWidth": 390,
+      "pageWidth": 390,
+      "sidebarScrollWidth": 379,
+      "sidebarWidth": 379
+    }
+  ],
+  "pausedLanguage": {
+    "before": {
+      "version": "2.0",
+      "seed": 731927,
+      "threeVersion": "180",
+      "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "language": "zh",
+      "quality": "medium",
+      "mode": "tour",
+      "elapsed": 58,
+      "playing": false,
+      "phase": "hold",
+      "destinationId": "pleiades",
+      "holdRemaining": 6,
+      "localWeight": 1,
+      "selectedId": "orion-nebula",
+      "sidebarOpen": true,
+      "imageId": "orion-nebula",
+      "imageState": "error",
+      "starCount": 2197,
+      "galaxyStarCount": 140000,
+      "localCounts": {
+        "starCount": 2197,
+        "dustCount": 0,
+        "gasCount": 115,
+        "stellarMeshCount": 0
+      },
+      "dustCount": 2800,
+      "populations": {
+        "bulge": 8999,
+        "bar": 23320,
+        "thinDisc": 43572,
+        "thickDisc": 5991,
+        "arms": 37532,
+        "youngClusters": 14322,
+        "halo": 2764
+      },
+      "armCounts": {
+        "scutum-centaurus": 17567,
+        "perseus": 14827,
+        "sagittarius": 6696,
+        "norma": 4772,
+        "local": 4301,
+        "outer-fragment": 3691
+      },
+      "positions": {
+        "solar-system": [
+          32.8,
+          0.0832,
+          0
+        ],
+        "alpha-centauri": [
+          32.79616179190134,
+          0.08313795226224348,
+          -0.0037399726171664415
+        ],
+        "pleiades": [
+          33.285063969228126,
+          -0.1349285708072692,
+          0.1167875893866778
+        ],
+        "orion-nebula": [
+          34.16587199857899,
+          -0.4662456724945471,
+          -0.7574112941920697
+        ],
+        "crab-nebula": [
+          40.70601508707439,
+          -0.720072408539564,
+          -0.6298120393540024
+        ],
+        "sagittarius-a": [
+          0,
+          0,
+          0
+        ]
+      },
+      "model": "MW-reconstruction-2026.2",
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1.25
+      },
+      "fps": 164.98020237571495,
+      "frameMean": 6.061333333333332,
+      "p95": 6.200000000000728,
+      "drawCalls": 20,
+      "sampling": false,
+      "benchmark": {
+        "frames": 2858,
+        "milliseconds": 17334.6,
+        "startElapsed": 58,
+        "seeks": 0,
+        "pauses": 0,
+        "completed": false,
+        "uninterrupted": false
+      },
+      "phaseStats": [
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        }
+      ],
+      "lastInteraction": null,
+      "errors": [],
+      "contextLost": false,
+      "camera": [
+        33.06506396922813,
+        0.0450714291927308,
+        0.47678758938667776
+      ],
+      "localCamera": [
+        -1.09128,
+        1.36719930329234,
+        12.0438144
+      ]
+    },
+    "after": {
+      "version": "2.0",
+      "seed": 731927,
+      "threeVersion": "180",
+      "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "language": "ja",
+      "quality": "medium",
+      "mode": "tour",
+      "elapsed": 58,
+      "playing": false,
+      "phase": "hold",
+      "destinationId": "pleiades",
+      "holdRemaining": 6,
+      "localWeight": 1,
+      "selectedId": "orion-nebula",
+      "sidebarOpen": true,
+      "imageId": "orion-nebula",
+      "imageState": "loaded",
+      "starCount": 2197,
+      "galaxyStarCount": 140000,
+      "localCounts": {
+        "starCount": 2197,
+        "dustCount": 0,
+        "gasCount": 115,
+        "stellarMeshCount": 0
+      },
+      "dustCount": 2800,
+      "populations": {
+        "bulge": 8999,
+        "bar": 23320,
+        "thinDisc": 43572,
+        "thickDisc": 5991,
+        "arms": 37532,
+        "youngClusters": 14322,
+        "halo": 2764
+      },
+      "armCounts": {
+        "scutum-centaurus": 17567,
+        "perseus": 14827,
+        "sagittarius": 6696,
+        "norma": 4772,
+        "local": 4301,
+        "outer-fragment": 3691
+      },
+      "positions": {
+        "solar-system": [
+          32.8,
+          0.0832,
+          0
+        ],
+        "alpha-centauri": [
+          32.79616179190134,
+          0.08313795226224348,
+          -0.0037399726171664415
+        ],
+        "pleiades": [
+          33.285063969228126,
+          -0.1349285708072692,
+          0.1167875893866778
+        ],
+        "orion-nebula": [
+          34.16587199857899,
+          -0.4662456724945471,
+          -0.7574112941920697
+        ],
+        "crab-nebula": [
+          40.70601508707439,
+          -0.720072408539564,
+          -0.6298120393540024
+        ],
+        "sagittarius-a": [
+          0,
+          0,
+          0
+        ]
+      },
+      "model": "MW-reconstruction-2026.2",
+      "viewport": {
+        "width": 1280,
+        "height": 720,
+        "dpr": 1.25
+      },
+      "fps": 164.98927569708007,
+      "frameMean": 6.060999999999986,
+      "p95": 6.19999999999709,
+      "drawCalls": 20,
+      "sampling": false,
+      "benchmark": {
+        "frames": 8667,
+        "milliseconds": 52548.99999999999,
+        "startElapsed": 58,
+        "seeks": 0,
+        "pauses": 0,
+        "completed": false,
+        "uninterrupted": false
+      },
+      "phaseStats": [
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        },
+        {
+          "frames": 0,
+          "milliseconds": 0,
+          "worst": 0
+        }
+      ],
+      "lastInteraction": null,
+      "errors": [],
+      "contextLost": false,
+      "camera": [
+        33.06506396922813,
+        0.0450714291927308,
+        0.47678758938667776
+      ],
+      "localCamera": [
+        -1.09128,
+        1.36719930329234,
+        12.0438144
+      ]
+    },
+    "cameraPreserved": true
+  },
+  "freeControls": {
+    "before": [
+      111.99999999999996,
+      73.99999999999999,
+      81.99999999999997
+    ],
+    "after": [
+      78.00429023656163,
+      59.199999999999996,
+      79.03702110207755
+    ],
+    "locatedCamera": [
+      43.16587199857899,
+      7.5337543275054495,
+      12.24258870580793
+    ]
+  },
+  "replayProof": {
+    "mode": "自动巡游",
+    "play": "暂停",
+    "time": "0.25"
+  },
+  "checks": {
+    "sixImagesLoaded": true,
+    "zhEnJaContent": true,
+    "playingLanguagePreservesProgress": true,
+    "languageRememberedOnNavigation": "en",
+    "skipMovesToDepartureAt64Seconds": true,
+    "endSeekEntersExplore": true,
+    "markerOpensSgrA": true,
+    "sidebarNextPrevious": true,
+    "imageFailureReadable": true,
+    "imageRetryRecovered": true,
+    "fullscreenEnterExitLabelsObserved": true,
+    "hideRestoreLanguageAccessible": true,
+    "qualityClearsSamples": true
+  },
+  "console": [],
+  "notes": [
+    "Full 160 s tour was uninterrupted at medium quality; low/high are overview samples only.",
+    "One expected HTTP 404 was deliberately triggered for the image-failure test.",
+    "FPS measures browser requestAnimationFrame intervals, not GPU timings."
+  ]
+}

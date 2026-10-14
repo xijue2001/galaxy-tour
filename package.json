@@ -1,0 +1,18 @@
+{
+  "name": "galaxy-tour",
+  "version": "5.1.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "description": "A sourced, trilingual cinematic journey from the Solar System to the Milky Way.",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check src/app.js && node --check src/galaxy.js && node --check src/tour.js && node --check src/local-scenes.js && node --check src/observation-scenes.js && node --check src/marker-layout.js && node --check src/catalog-utils.js && node --check src/data.js && node --check src/exploration-data.js && node --check src/i18n.js && node qa/check-model.mjs && node qa/check-exploration.mjs && node --check src/motion.js && node --check src/solar-scene.js && node --check src/solar-data.js && node --check src/extragalactic-data.js && node --check src/galaxy-environment.js && node qa/check-motion.mjs && node --check src/deep-sky.js && node --check src/cosmic-scales.js && node --check src/nearby-galaxies.js && node qa/check-scales.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

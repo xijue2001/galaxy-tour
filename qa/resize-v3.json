@@ -1,0 +1,383 @@
+{
+  "version": "3.0",
+  "catalogCount": 21,
+  "tourIds": [
+    "solar-system",
+    "alpha-centauri",
+    "pleiades",
+    "orion-nebula",
+    "crab-nebula",
+    "sagittarius-a"
+  ],
+  "exploreView": "eagle-nebula",
+  "assets": {
+    "earth": "loaded",
+    "pleiades": "idle",
+    "orion-nebula": "idle",
+    "crab-nebula": "idle",
+    "eagle-nebula": "loaded"
+  },
+  "antialias": {
+    "samples": 4,
+    "smaa": true,
+    "localTarget": [
+      1060,
+      754
+    ],
+    "worldTarget": [
+      1060,
+      754
+    ],
+    "canvas": [
+      1060,
+      754
+    ]
+  },
+  "markerPositions": [
+    {
+      "id": "solar-system",
+      "visible": true,
+      "x": 269.998,
+      "y": 484.185
+    },
+    {
+      "id": "alpha-centauri",
+      "visible": true,
+      "x": 295.381,
+      "y": 438.704
+    },
+    {
+      "id": "pleiades",
+      "visible": true,
+      "x": 286.769,
+      "y": 520.499
+    },
+    {
+      "id": "orion-nebula",
+      "visible": true,
+      "x": 309.201,
+      "y": 476.24
+    },
+    {
+      "id": "crab-nebula",
+      "visible": true,
+      "x": 332.43,
+      "y": 508.805
+    },
+    {
+      "id": "sagittarius-a",
+      "visible": true,
+      "x": 206.473,
+      "y": 401.396
+    },
+    {
+      "id": "eagle-nebula",
+      "visible": true,
+      "x": 147.449,
+      "y": 507.254
+    },
+    {
+      "id": "carina-cliffs",
+      "visible": true,
+      "x": 334.951,
+      "y": 432.855
+    },
+    {
+      "id": "lagoon-nebula",
+      "visible": true,
+      "x": 255.798,
+      "y": 432.946
+    },
+    {
+      "id": "trifid-nebula",
+      "visible": true,
+      "x": 175.851,
+      "y": 427.131
+    },
+    {
+      "id": "horsehead-nebula",
+      "visible": true,
+      "x": 348.771,
+      "y": 470.392
+    },
+    {
+      "id": "rosette-nebula",
+      "visible": true,
+      "x": 372,
+      "y": 502.956
+    },
+    {
+      "id": "omega-nebula",
+      "visible": true,
+      "x": 234.096,
+      "y": 466.547
+    },
+    {
+      "id": "helix-nebula",
+      "visible": true,
+      "x": 243.851,
+      "y": 514.455
+    },
+    {
+      "id": "ring-nebula",
+      "visible": true,
+      "x": 154.638,
+      "y": 467.905
+    },
+    {
+      "id": "butterfly-nebula",
+      "visible": true,
+      "x": 245.822,
+      "y": 394.21
+    },
+    {
+      "id": "cats-eye-nebula",
+      "visible": true,
+      "x": 206.255,
+      "y": 500.796
+    },
+    {
+      "id": "veil-nebula",
+      "visible": true,
+      "x": 194.289,
+      "y": 462.628
+    },
+    {
+      "id": "double-cluster",
+      "visible": true,
+      "x": 193.24,
+      "y": 538.62
+    },
+    {
+      "id": "hercules-cluster",
+      "visible": true,
+      "x": 162.867,
+      "y": 389.297
+    },
+    {
+      "id": "omega-centauri",
+      "visible": true,
+      "x": 309.412,
+      "y": 401.245
+    }
+  ],
+  "seed": 731927,
+  "threeVersion": "180",
+  "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "language": "zh",
+  "quality": "medium",
+  "mode": "explore",
+  "elapsed": 160,
+  "playing": false,
+  "phase": "pullback",
+  "destinationId": "sagittarius-a",
+  "holdRemaining": 0,
+  "localWeight": 1,
+  "selectedId": "eagle-nebula",
+  "sidebarOpen": false,
+  "imageId": "eagle-nebula",
+  "imageState": "loaded",
+  "starCount": 1650,
+  "galaxyStarCount": 140000,
+  "localCounts": {
+    "starCount": 1650,
+    "dustCount": 0,
+    "gasCount": 0,
+    "stellarMeshCount": 0
+  },
+  "dustCount": 2800,
+  "populations": {
+    "bulge": 8999,
+    "bar": 23320,
+    "thinDisc": 43572,
+    "thickDisc": 5991,
+    "arms": 37532,
+    "youngClusters": 14322,
+    "halo": 2764
+  },
+  "armCounts": {
+    "scutum-centaurus": 17567,
+    "perseus": 14827,
+    "sagittarius": 6696,
+    "norma": 4772,
+    "local": 4301,
+    "outer-fragment": 3691
+  },
+  "positions": {
+    "solar-system": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "alpha-centauri": [
+      28,
+      0.2,
+      -6
+    ],
+    "pleiades": [
+      41,
+      -1,
+      6
+    ],
+    "orion-nebula": [
+      38,
+      -2,
+      -8
+    ],
+    "crab-nebula": [
+      49,
+      -1,
+      -5
+    ],
+    "sagittarius-a": [
+      0,
+      0,
+      0
+    ],
+    "eagle-nebula": [
+      21,
+      0.3,
+      21
+    ],
+    "carina-cliffs": [
+      30,
+      -0.6,
+      -22
+    ],
+    "lagoon-nebula": [
+      21,
+      -0.5,
+      3
+    ],
+    "trifid-nebula": [
+      17,
+      0.5,
+      8
+    ],
+    "horsehead-nebula": [
+      46,
+      -1,
+      -15
+    ],
+    "rosette-nebula": [
+      54,
+      -1,
+      -18
+    ],
+    "omega-nebula": [
+      18,
+      -0.4,
+      14
+    ],
+    "helix-nebula": [
+      31,
+      -5,
+      16
+    ],
+    "ring-nebula": [
+      27,
+      5,
+      24
+    ],
+    "butterfly-nebula": [
+      12,
+      0.9,
+      -12
+    ],
+    "cats-eye-nebula": [
+      37,
+      9,
+      20
+    ],
+    "veil-nebula": [
+      25,
+      0.3,
+      11
+    ],
+    "double-cluster": [
+      42,
+      0.5,
+      25
+    ],
+    "hercules-cluster": [
+      20,
+      23,
+      23
+    ],
+    "omega-centauri": [
+      21,
+      6,
+      -24
+    ]
+  },
+  "model": "MW-reconstruction-2026.2",
+  "viewport": {
+    "width": 707,
+    "height": 503,
+    "dpr": 1.5
+  },
+  "fps": 164.98927569707942,
+  "frameMean": 6.06100000000001,
+  "p95": 6.19999999999709,
+  "drawCalls": 23,
+  "sampling": false,
+  "benchmark": {
+    "frames": 7993,
+    "milliseconds": 48470,
+    "startElapsed": 160,
+    "seeks": 0,
+    "pauses": 0,
+    "completed": false,
+    "uninterrupted": false
+  },
+  "phaseStats": [
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    },
+    {
+      "frames": 0,
+      "milliseconds": 0,
+      "worst": 0
+    }
+  ],
+  "lastInteraction": null,
+  "errors": [],
+  "contextLost": false,
+  "camera": [
+    188.8693333333333,
+    124.78866666666666,
+    138.27933333333334
+  ],
+  "localCamera": [
+    0.1076205673978466,
+    0.2771805630389583,
+    18.02034212764914
+  ]
+}

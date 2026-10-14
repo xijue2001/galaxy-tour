@@ -1,0 +1,97 @@
+{
+  "testedAt": "2026-10-10",
+  "browser": "Codex in-app Chromium",
+  "fullTour": {
+    "seed": 731927,
+    "threeVersion": "180",
+    "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "quality": "medium",
+    "starCount": 140000,
+    "galaxyStarCount": 136500,
+    "backgroundStarCount": 3500,
+    "dustCount": 2800,
+    "hazeCount": 6500,
+    "elapsed": 90,
+    "playing": false,
+    "phase": "重返全景",
+    "viewport": {
+      "width": 1280,
+      "height": 720,
+      "dpr": 0.9999999962747097
+    },
+    "fps": 164.98927569707942,
+    "frameMean": 6.06100000000001,
+    "p95": 6.19999999999709,
+    "drawCalls": 19,
+    "benchmark": {
+      "frames": 20464,
+      "milliseconds": 124038.50000000001,
+      "lowPercentile": 158.7301587300854,
+      "completed": true,
+      "cycles": 1,
+      "startElapsed": 0,
+      "seeks": 0,
+      "pauses": 0,
+      "uninterrupted": true
+    },
+    "phaseStats": [
+      {
+        "frames": 2289,
+        "milliseconds": 13879.600000000002,
+        "worst": 12.100000000000364
+      },
+      {
+        "frames": 2475,
+        "milliseconds": 15001.099999999999,
+        "worst": 9
+      },
+      {
+        "frames": 2640,
+        "milliseconds": 16001.100000000002,
+        "worst": 6.400000000001455
+      },
+      {
+        "frames": 3300,
+        "milliseconds": 20001.299999999996,
+        "worst": 6.30000000000291
+      },
+      {
+        "frames": 4126,
+        "milliseconds": 25007.600000000006,
+        "worst": 6.30000000000291
+      }
+    ],
+    "errors": [],
+    "contextLost": false,
+    "camera": [
+      62,
+      40,
+      69
+    ],
+    "averageFps": 164.978134556745,
+    "sampledFrames": 14830,
+    "sampledMilliseconds": 89890.70000000001,
+    "phaseAverageFps": [
+      164.9182973572725,
+      164.98790088726827,
+      164.98865702982917,
+      164.9892756970797,
+      164.98984308770127
+    ]
+  },
+  "qualitySamples": {
+    "high": {
+      "starCount": 260000,
+      "fps": 164.9983500165001,
+      "p95": 6.19999999999709,
+      "seconds": 10.534099999999992
+    },
+    "low": {
+      "starCount": 60000,
+      "fps": 164.43762332821802,
+      "p95": 6.19999999999709,
+      "seconds": 15.885899999999994
+    }
+  },
+  "consoleWarningsOrErrors": []
+}

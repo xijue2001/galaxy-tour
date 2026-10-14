@@ -1,0 +1,130 @@
+[
+  {
+    "id": "carina-cliffs",
+    "page": "https://esawebb.org/images/weic2205a/",
+    "resource": "https://cdn.esawebb.org/archives/images/screen/weic2205a.jpg",
+    "bytes": 291704,
+    "title": "NIRCam Image of the “Cosmic Cliffs” in Carina",
+    "credit": "NASA, ESA, CSA, and STScI"
+  },
+  {
+    "id": "eagle-nebula",
+    "page": "https://esawebb.org/images/pillarsofcreation_composite/",
+    "resource": "https://cdn.esawebb.org/archives/images/screen/pillarsofcreation_composite.jpg",
+    "bytes": 489369,
+    "title": "Pillars of Creation (NIRCam and MIRI Composite Image)",
+    "credit": "NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI), A. M. Koekemoer (STScI)"
+  },
+  {
+    "id": "horsehead-nebula",
+    "page": "https://www.eso.org/public/images/eso0202a/",
+    "resource": "https://cdn.eso.org/images/screen/eso0202a.jpg",
+    "bytes": 327157,
+    "title": "The Horsehead Nebula*",
+    "credit": "ESO"
+  },
+  {
+    "id": "lagoon-nebula",
+    "page": "https://www.eso.org/public/images/eso1101a/",
+    "resource": "https://cdn.eso.org/images/screen/eso1101a.jpg",
+    "bytes": 412569,
+    "title": "VISTA&#39;s infrared view of the Lagoon Nebula (Messier 8)",
+    "credit": "ESO/VVV Acknowledgment: Cambridge Astronomical Survey Unit"
+  },
+  {
+    "id": "trifid-nebula",
+    "page": "https://www.eso.org/public/images/eso0930a/",
+    "resource": "https://cdn.eso.org/images/screen/eso0930a.jpg",
+    "bytes": 354895,
+    "title": "The Trifid Nebula",
+    "credit": "ESO"
+  },
+  {
+    "id": "rosette-nebula",
+    "page": "https://www.eso.org/public/images/b12/",
+    "resource": "https://cdn.eso.org/images/screen/b12.jpg",
+    "bytes": 529869,
+    "title": "The Rosette Nebula: a cosmic rose",
+    "credit": "ESO/S. Brunier"
+  },
+  {
+    "id": "omega-nebula",
+    "page": "https://www.eso.org/public/images/eso1119a/",
+    "resource": "https://cdn.eso.org/images/screen/eso1119a.jpg",
+    "bytes": 582928,
+    "title": "VST image of the star-forming region Messier 17",
+    "credit": "ESO/INAF-VST/OmegaCAM. Acknowledgement: OmegaCen/Astro-WISE/Kapteyn Institute"
+  },
+  {
+    "id": "helix-nebula",
+    "page": "https://www.eso.org/public/images/eso0907a/",
+    "resource": "https://cdn.eso.org/images/screen/eso0907a.jpg",
+    "bytes": 152243,
+    "title": "The Helix Nebula*",
+    "credit": "ESO"
+  },
+  {
+    "id": "ring-nebula",
+    "page": "https://esahubble.org/images/heic1310a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/heic1310a.jpg",
+    "bytes": 181669,
+    "title": "Hubble image of the Ring Nebula (Messier 57)",
+    "credit": "NASA, ESA, and C. Robert O’Dell (Vanderbilt University)."
+  },
+  {
+    "id": "butterfly-nebula",
+    "page": "https://esahubble.org/images/heic0910h/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/heic0910h.jpg",
+    "bytes": 315102,
+    "title": "Butterfly emerges from stellar demise in planetary nebula NGC 6302",
+    "credit": "NASA, ESA and the Hubble SM4 ERO Team"
+  },
+  {
+    "id": "double-cluster",
+    "page": "https://www.eso.org/public/images/b02/",
+    "resource": "https://cdn.eso.org/images/screen/b02.jpg",
+    "bytes": 512920,
+    "title": "The double cluster in Perseus",
+    "credit": "ESO/S. Brunier"
+  },
+  {
+    "id": "omega-centauri",
+    "page": "https://www.eso.org/public/images/eso1119b/",
+    "resource": "https://cdn.eso.org/images/screen/eso1119b.jpg",
+    "bytes": 652467,
+    "title": "VST image of the giant globular cluster Omega Centauri*",
+    "credit": "ESO/INAF-VST/OmegaCAM. Acknowledgement: A. Grado, L. Limatola /INAF-Capodimonte Observatory"
+  },
+  {
+    "id": "veil-nebula",
+    "page": "https://esahubble.org/images/potw2113a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/potw2113a.jpg",
+    "bytes": 292274,
+    "title": "Return to the Veil Nebula",
+    "credit": "ESA/Hubble & NASA, Z. Levay"
+  },
+  {
+    "id": "hercules-cluster",
+    "page": "https://esahubble.org/images/potw1011a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/potw1011a.jpg",
+    "bytes": 1011888,
+    "title": "The crowded heart of the Hercules globular cluster",
+    "credit": "ESA/Hubble and NASA"
+  },
+  {
+    "id": "cats-eye-nebula",
+    "page": "https://esahubble.org/images/heic0414a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/heic0414a.jpg",
+    "bytes": 185472,
+    "title": "Dying star creates fantasy-like sculpture of gas and dust",
+    "credit": "ESA , NASA , HEIC and The Hubble Heritage Team ( STScI / AURA )"
+  },
+  {
+    "id": "pleiades",
+    "page": "https://iauarchive.eso.org/public/images/detail/ann22042ab/",
+    "resource": "https://iauarchive.eso.org/static/archives/images/screen/ann22042ab.jpg",
+    "bytes": 384789,
+    "title": "The Pleiades M45 with Majestic Dust",
+    "credit": "Mohamed Usama/IAU OAE"
+  }
+]

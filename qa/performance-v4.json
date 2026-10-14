@@ -1,0 +1,92 @@
+[
+  {
+    "scene": "galaxy",
+    "quality": "low",
+    "fps": 31.0586176727909,
+    "mean": 32.19718309859155,
+    "p95": 33.40000000002328,
+    "calls": 7,
+    "canvas": [
+      1280,
+      720
+    ],
+    "sceneTime": 0,
+    "sampling": false,
+    "errors": []
+  },
+  {
+    "scene": "galaxy",
+    "quality": "medium",
+    "fps": 30.42193906794225,
+    "mean": 32.87101449275371,
+    "p95": 33.600000000034925,
+    "calls": 23,
+    "canvas": [
+      1920,
+      1080
+    ],
+    "sceneTime": 0,
+    "sampling": false,
+    "errors": []
+  },
+  {
+    "scene": "galaxy",
+    "quality": "high",
+    "fps": 31.300304060096664,
+    "mean": 31.948571428571345,
+    "p95": 33.40000000002328,
+    "calls": 23,
+    "canvas": [
+      2560,
+      1440
+    ],
+    "sceneTime": 0,
+    "sampling": false,
+    "errors": []
+  },
+  {
+    "scene": "solar-sun",
+    "quality": "low",
+    "fps": 30.442944847531226,
+    "mean": 32.84833333333372,
+    "p95": 33.40000000002328,
+    "calls": 25,
+    "canvas": [
+      1280,
+      720
+    ],
+    "sceneTime": 4.676700000000008,
+    "sampling": false,
+    "errors": []
+  },
+  {
+    "scene": "solar-sun",
+    "quality": "medium",
+    "fps": 30.444126074498655,
+    "mean": 32.847058823529316,
+    "p95": 33.40000000002328,
+    "calls": 41,
+    "canvas": [
+      1920,
+      1080
+    ],
+    "sceneTime": 9.15729999999999,
+    "sampling": false,
+    "errors": []
+  },
+  {
+    "scene": "solar-sun",
+    "quality": "high",
+    "fps": 30.70757540271154,
+    "mean": 32.56525423728824,
+    "p95": 33.300000000046566,
+    "calls": 41,
+    "canvas": [
+      2560,
+      1440
+    ],
+    "sceneTime": 13.605799999999979,
+    "sampling": false,
+    "errors": []
+  }
+]

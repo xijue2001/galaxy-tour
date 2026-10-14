@@ -1,0 +1,157 @@
+{
+  "checkedOn": "2026-10-13",
+  "version": "4.0.0",
+  "projectBytes": 45313483,
+  "dependencyBytes": 30765367,
+  "imageBytes": 10265306,
+  "imageCount": 35,
+  "screenshotBytes": 3382765,
+  "qaBytes": 540638,
+  "excludingDependenciesBytes": 14548116,
+  "runtimeSourceDocsAndImagesBytes": 10624713,
+  "netNewImageBytes": 2090404,
+  "newImageCount": 13,
+  "projectGrowthSinceV3Bytes": 3044133,
+  "assetFiles": [
+    {
+      "name": "assets/alpha-centauri.jpg",
+      "bytes": 79327
+    },
+    {
+      "name": "assets/andromeda.jpg",
+      "bytes": 54448
+    },
+    {
+      "name": "assets/butterfly-nebula.jpg",
+      "bytes": 315102
+    },
+    {
+      "name": "assets/carina-cliffs.jpg",
+      "bytes": 291704
+    },
+    {
+      "name": "assets/cats-eye-nebula.jpg",
+      "bytes": 185472
+    },
+    {
+      "name": "assets/centaurus-a.jpg",
+      "bytes": 343027
+    },
+    {
+      "name": "assets/crab-nebula.jpg",
+      "bytes": 451157
+    },
+    {
+      "name": "assets/double-cluster.jpg",
+      "bytes": 512920
+    },
+    {
+      "name": "assets/eagle-nebula.jpg",
+      "bytes": 489369
+    },
+    {
+      "name": "assets/earth-blue-marble.jpg",
+      "bytes": 266599
+    },
+    {
+      "name": "assets/helix-nebula.jpg",
+      "bytes": 152243
+    },
+    {
+      "name": "assets/hercules-cluster.jpg",
+      "bytes": 1011888
+    },
+    {
+      "name": "assets/horsehead-nebula.jpg",
+      "bytes": 327157
+    },
+    {
+      "name": "assets/jupiter.jpg",
+      "bytes": 138013
+    },
+    {
+      "name": "assets/lagoon-nebula.jpg",
+      "bytes": 412569
+    },
+    {
+      "name": "assets/large-magellanic-cloud.jpg",
+      "bytes": 342018
+    },
+    {
+      "name": "assets/mars.jpg",
+      "bytes": 51420
+    },
+    {
+      "name": "assets/mercury.jpg",
+      "bytes": 28534
+    },
+    {
+      "name": "assets/moon.jpg",
+      "bytes": 81890
+    },
+    {
+      "name": "assets/neptune.jpg",
+      "bytes": 233841
+    },
+    {
+      "name": "assets/omega-centauri.jpg",
+      "bytes": 652467
+    },
+    {
+      "name": "assets/omega-nebula.jpg",
+      "bytes": 582928
+    },
+    {
+      "name": "assets/orion-nebula.jpg",
+      "bytes": 218524
+    },
+    {
+      "name": "assets/pleiades.jpg",
+      "bytes": 384789
+    },
+    {
+      "name": "assets/ring-nebula.jpg",
+      "bytes": 181669
+    },
+    {
+      "name": "assets/rosette-nebula.jpg",
+      "bytes": 529869
+    },
+    {
+      "name": "assets/sagittarius-a.jpg",
+      "bytes": 62877
+    },
+    {
+      "name": "assets/saturn.jpg",
+      "bytes": 69048
+    },
+    {
+      "name": "assets/small-magellanic-cloud.jpg",
+      "bytes": 536770
+    },
+    {
+      "name": "assets/solar-system.jpg",
+      "bytes": 419103
+    },
+    {
+      "name": "assets/sun.jpg",
+      "bytes": 103944
+    },
+    {
+      "name": "assets/trifid-nebula.jpg",
+      "bytes": 354895
+    },
+    {
+      "name": "assets/uranus.jpg",
+      "bytes": 8416
+    },
+    {
+      "name": "assets/veil-nebula.jpg",
+      "bytes": 292274
+    },
+    {
+      "name": "assets/venus.jpg",
+      "bytes": 99035
+    }
+  ]
+}

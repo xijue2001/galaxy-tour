@@ -1,0 +1,980 @@
+{
+  "version": "5.0",
+  "cosmicLevel": 0,
+  "cosmicWeights": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "cmbLoaded": false,
+  "atlasLoaded": false,
+  "deepSky": {
+    "stars": 10000,
+    "galaxies": 260
+  },
+  "atlasPoints": 12200,
+  "catalogCount": 39,
+  "mapCount": 29,
+  "tourIds": [
+    "solar-system",
+    "alpha-centauri",
+    "pleiades",
+    "orion-nebula",
+    "crab-nebula",
+    "sagittarius-a"
+  ],
+  "sceneTime": 9230.7944000005,
+  "motionPaused": false,
+  "galaxyAngle": 73.84635520000401,
+  "bodyMotion": {
+    "positions": {
+      "sun": [
+        0,
+        0,
+        0
+      ],
+      "mercury": [
+        -0.7077303770879901,
+        0,
+        -2.0830548992637934
+      ],
+      "venus": [
+        -2.883524981108338,
+        0,
+        -2.4749310461756626
+      ],
+      "earth": [
+        -5.569291188686783,
+        0,
+        -1.6195665023751726
+      ],
+      "moon": [
+        -4.860566362755407,
+        0.05118710299449639,
+        -2.188063645372014
+      ],
+      "mars": [
+        7.354120004411693,
+        0,
+        -1.9175293897908736
+      ],
+      "jupiter": [
+        10.576702946270753,
+        0,
+        -0.702392188415823
+      ],
+      "saturn": [
+        -6.698901862116319,
+        0,
+        -12.293279214340433
+      ],
+      "uranus": [
+        17.99446469999936,
+        0,
+        -0.4463632606712055
+      ],
+      "neptune": [
+        4.534313638924522,
+        0,
+        -21.52765662639255
+      ]
+    },
+    "spinAngles": {
+      "sun": -322.2155097093264,
+      "mercury": -214.8103398062176,
+      "venus": -148.71485063507373,
+      "earth": -644.4310194186528,
+      "moon": -1931.4014656023687,
+      "mars": -594.8594025402949,
+      "jupiter": -1288.8620388373056,
+      "saturn": -966.6465291279793,
+      "uranus": -773.3172233023834,
+      "neptune": -724.9848968459844
+    },
+    "moonFacingDot": 0.9999999999999999,
+    "atmosphereParent": "earth-axis",
+    "ringsParent": "saturn-axis",
+    "moonParent": "earth"
+  },
+  "followId": null,
+  "environmentView": false,
+  "environmentAssets": {
+    "large-magellanic-cloud": "loaded",
+    "small-magellanic-cloud": "loaded",
+    "andromeda": "loaded",
+    "centaurus-a": "loaded",
+    "triangulum": "loaded",
+    "bodes-galaxy": "loaded",
+    "whirlpool": "loaded",
+    "messier-87": "loaded"
+  },
+  "exploreView": null,
+  "assets": {
+    "earth": "loaded",
+    "pleiades": "loaded",
+    "orion-nebula": "loaded",
+    "crab-nebula": "loaded"
+  },
+  "antialias": {
+    "samples": 4,
+    "smaa": true,
+    "localTarget": [
+      1920,
+      1080
+    ],
+    "worldTarget": [
+      1920,
+      1080
+    ],
+    "composer": [
+      1920,
+      1080
+    ],
+    "smaaTarget": [
+      1920,
+      1080
+    ],
+    "canvas": [
+      1920,
+      1080
+    ]
+  },
+  "localMarkerPositions": [
+    {
+      "id": "shadow",
+      "visible": false,
+      "x": 640,
+      "y": 360
+    }
+  ],
+  "markerPositions": [
+    {
+      "id": "solar-system",
+      "visible": true,
+      "x": 721.936,
+      "y": 295.504,
+      "anchor": [
+        0.6207961035081652,
+        0.0832,
+        32.794124659729356
+      ]
+    },
+    {
+      "id": "alpha-centauri",
+      "visible": true,
+      "x": 649.751,
+      "y": 314.874,
+      "anchor": [
+        6.528873135872097,
+        0.2,
+        27.881424202785762
+      ]
+    },
+    {
+      "id": "pleiades",
+      "visible": true,
+      "x": 760.211,
+      "y": 283.884,
+      "anchor": [
+        -5.222930113248212,
+        -1,
+        41.10621608749855
+      ]
+    },
+    {
+      "id": "orion-nebula",
+      "visible": true,
+      "x": 683.039,
+      "y": 286.178,
+      "anchor": [
+        8.717781988144669,
+        -2,
+        37.84177951956251
+      ]
+    },
+    {
+      "id": "crab-nebula",
+      "visible": true,
+      "x": 726.507,
+      "y": 255.766,
+      "anchor": [
+        5.926513182028868,
+        -1,
+        48.89658926247554
+      ]
+    },
+    {
+      "id": "sagittarius-a",
+      "visible": true,
+      "x": 640,
+      "y": 360,
+      "anchor": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "eagle-nebula",
+      "visible": true,
+      "x": 800.35,
+      "y": 352.11,
+      "anchor": [
+        -20.598777429287956,
+        0.3,
+        21.393699269145976
+      ]
+    },
+    {
+      "id": "carina-cliffs",
+      "visible": true,
+      "x": 619.011,
+      "y": 289.28,
+      "anchor": [
+        22.5638605371735,
+        -0.6,
+        29.578238582765277
+      ]
+    },
+    {
+      "id": "lagoon-nebula",
+      "visible": true,
+      "x": 688.218,
+      "y": 325.841,
+      "anchor": [
+        -2.6020017013877013,
+        -0.5,
+        21.053018480635394
+      ]
+    },
+    {
+      "id": "trifid-nebula",
+      "visible": true,
+      "x": 706.637,
+      "y": 361.471,
+      "anchor": [
+        -7.676812912140123,
+        0.5,
+        17.1483685379105
+      ]
+    },
+    {
+      "id": "horsehead-nebula",
+      "visible": true,
+      "x": 650.217,
+      "y": 263.313,
+      "anchor": [
+        15.867941788332804,
+        -1,
+        45.70785953643073
+      ]
+    },
+    {
+      "id": "rosette-nebula",
+      "visible": true,
+      "x": 687.611,
+      "y": 246.432,
+      "anchor": [
+        19.018818093431992,
+        -1,
+        53.64964639519019
+      ]
+    },
+    {
+      "id": "omega-nebula",
+      "visible": true,
+      "x": 747.399,
+      "y": 371.34,
+      "anchor": [
+        -13.656811444300732,
+        -0.4,
+        18.261749674519596
+      ]
+    },
+    {
+      "id": "helix-nebula",
+      "visible": true,
+      "x": 773.317,
+      "y": 321.708,
+      "anchor": [
+        -15.410405955698677,
+        -5,
+        31.29727445450429
+      ]
+    },
+    {
+      "id": "ring-nebula",
+      "visible": true,
+      "x": 811.453,
+      "y": 309.639,
+      "anchor": [
+        -23.48467978776781,
+        5,
+        27.449404643197823
+      ]
+    },
+    {
+      "id": "butterfly-nebula",
+      "visible": true,
+      "x": 612.175,
+      "y": 329.028,
+      "anchor": [
+        12.224971010940557,
+        0.9,
+        11.770729959593119
+      ]
+    },
+    {
+      "id": "cats-eye-nebula",
+      "visible": true,
+      "x": 804.462,
+      "y": 270.255,
+      "anchor": [
+        -19.29612918795076,
+        9,
+        37.37190653902895
+      ]
+    },
+    {
+      "id": "veil-nebula",
+      "visible": true,
+      "x": 735.034,
+      "y": 333.299,
+      "anchor": [
+        -10.524861849674354,
+        0.3,
+        25.20371565950682
+      ]
+    },
+    {
+      "id": "double-cluster",
+      "visible": true,
+      "x": 850.327,
+      "y": 300.214,
+      "anchor": [
+        -24.200600004447896,
+        0.5,
+        42.46564446025418
+      ]
+    },
+    {
+      "id": "hercules-cluster",
+      "visible": true,
+      "x": 797.029,
+      "y": 230.951,
+      "anchor": [
+        -22.61734588730524,
+        23,
+        20.431731816319356
+      ]
+    },
+    {
+      "id": "omega-centauri",
+      "visible": true,
+      "x": 595.06,
+      "y": 257.243,
+      "anchor": [
+        24.393161890462686,
+        6,
+        20.54199729786953
+      ]
+    },
+    {
+      "id": "large-magellanic-cloud",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        5,
+        -85,
+        -155
+      ]
+    },
+    {
+      "id": "small-magellanic-cloud",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        -70,
+        -160,
+        -210
+      ]
+    },
+    {
+      "id": "andromeda",
+      "visible": true,
+      "x": 560.302,
+      "y": 277.039,
+      "anchor": [
+        210,
+        -125,
+        290
+      ]
+    },
+    {
+      "id": "centaurus-a",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        -310,
+        170,
+        -310
+      ]
+    },
+    {
+      "id": "triangulum",
+      "visible": true,
+      "x": 318.556,
+      "y": 213.243,
+      "anchor": [
+        340,
+        -80,
+        200
+      ]
+    },
+    {
+      "id": "bodes-galaxy",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        260,
+        190,
+        -160
+      ]
+    },
+    {
+      "id": "whirlpool",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        -110,
+        270,
+        330
+      ]
+    },
+    {
+      "id": "messier-87",
+      "visible": false,
+      "x": null,
+      "y": null,
+      "anchor": [
+        -340,
+        280,
+        170
+      ]
+    }
+  ],
+  "seed": 731927,
+  "threeVersion": "180",
+  "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "language": "zh",
+  "quality": "medium",
+  "mode": "explore",
+  "elapsed": 160,
+  "playing": false,
+  "phase": "pullback",
+  "destinationId": "sagittarius-a",
+  "holdRemaining": 0,
+  "localWeight": 0,
+  "selectedId": null,
+  "sidebarOpen": false,
+  "imageId": null,
+  "imageState": "idle",
+  "starCount": 150000,
+  "galaxyStarCount": 140000,
+  "localCounts": {
+    "starCount": 1980,
+    "dustCount": 0,
+    "gasCount": 0,
+    "stellarMeshCount": 0
+  },
+  "dustCount": 2800,
+  "populations": {
+    "bulge": 8999,
+    "bar": 23320,
+    "thinDisc": 43572,
+    "thickDisc": 5991,
+    "arms": 37532,
+    "youngClusters": 14322,
+    "halo": 2764
+  },
+  "armCounts": {
+    "scutum-centaurus": 17567,
+    "perseus": 14827,
+    "sagittarius": 6696,
+    "norma": 4772,
+    "local": 4301,
+    "outer-fragment": 3691
+  },
+  "positions": {
+    "solar-system": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "alpha-centauri": [
+      28,
+      0.2,
+      -6
+    ],
+    "pleiades": [
+      41,
+      -1,
+      6
+    ],
+    "orion-nebula": [
+      38,
+      -2,
+      -8
+    ],
+    "crab-nebula": [
+      49,
+      -1,
+      -5
+    ],
+    "sagittarius-a": [
+      0,
+      0,
+      0
+    ],
+    "eagle-nebula": [
+      21,
+      0.3,
+      21
+    ],
+    "carina-cliffs": [
+      30,
+      -0.6,
+      -22
+    ],
+    "lagoon-nebula": [
+      21,
+      -0.5,
+      3
+    ],
+    "trifid-nebula": [
+      17,
+      0.5,
+      8
+    ],
+    "horsehead-nebula": [
+      46,
+      -1,
+      -15
+    ],
+    "rosette-nebula": [
+      54,
+      -1,
+      -18
+    ],
+    "omega-nebula": [
+      18,
+      -0.4,
+      14
+    ],
+    "helix-nebula": [
+      31,
+      -5,
+      16
+    ],
+    "ring-nebula": [
+      27,
+      5,
+      24
+    ],
+    "butterfly-nebula": [
+      12,
+      0.9,
+      -12
+    ],
+    "cats-eye-nebula": [
+      37,
+      9,
+      20
+    ],
+    "veil-nebula": [
+      25,
+      0.3,
+      11
+    ],
+    "double-cluster": [
+      42,
+      0.5,
+      25
+    ],
+    "hercules-cluster": [
+      20,
+      23,
+      23
+    ],
+    "omega-centauri": [
+      21,
+      6,
+      -24
+    ],
+    "large-magellanic-cloud": [
+      5,
+      -85,
+      -155
+    ],
+    "small-magellanic-cloud": [
+      -70,
+      -160,
+      -210
+    ],
+    "andromeda": [
+      210,
+      -125,
+      290
+    ],
+    "centaurus-a": [
+      -310,
+      170,
+      -310
+    ],
+    "triangulum": [
+      340,
+      -80,
+      200
+    ],
+    "bodes-galaxy": [
+      260,
+      190,
+      -160
+    ],
+    "whirlpool": [
+      -110,
+      270,
+      330
+    ],
+    "messier-87": [
+      -340,
+      280,
+      170
+    ],
+    "sun": [
+      0,
+      0,
+      0
+    ],
+    "mercury": [
+      -1.6945087589040764,
+      0,
+      1.4030823446959082
+    ],
+    "venus": [
+      3.3348137351834164,
+      0,
+      -1.8218170466959713
+    ],
+    "earth": [
+      5.021783386916439,
+      0,
+      2.9020150955655017
+    ],
+    "moon": [
+      0.91,
+      0,
+      0
+    ],
+    "mars": [
+      -3.162715957758282,
+      0,
+      6.910660443875181
+    ],
+    "jupiter": [
+      -8.384257746292818,
+      0,
+      -6.48569364399282
+    ],
+    "saturn": [
+      9.44826064099774,
+      0,
+      10.331039195539477
+    ],
+    "uranus": [
+      -9.852437978644877,
+      0,
+      15.064178234372958
+    ],
+    "neptune": [
+      14.017325172368764,
+      0,
+      -16.956255335777325
+    ]
+  },
+  "truePositions": {
+    "solar-system": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "alpha-centauri": [
+      32.79616179190134,
+      0.08313795226224348,
+      -0.0037399726171664415
+    ],
+    "pleiades": [
+      33.285063969228126,
+      -0.1349285708072692,
+      0.1167875893866778
+    ],
+    "orion-nebula": [
+      34.16587199857899,
+      -0.4662456724945471,
+      -0.7574112941920697
+    ],
+    "crab-nebula": [
+      40.70601508707439,
+      -0.720072408539564,
+      -0.6298120393540024
+    ],
+    "sagittarius-a": [
+      0,
+      0,
+      0
+    ],
+    "eagle-nebula": [
+      25.17466033194837,
+      0.18805333430297116,
+      2.3216772061180277
+    ],
+    "carina-cliffs": [
+      30.20542004775667,
+      0.050577678477213964,
+      -8.952218190317428
+    ],
+    "lagoon-nebula": [
+      26.70222187902058,
+      -0.04514013341258569,
+      0.6343474362034445
+    ],
+    "trifid-nebula": [
+      26.106376002209075,
+      0.049423682883676434,
+      0.8321019421634105
+    ],
+    "horsehead-nebula": [
+      34.160635073889125,
+      -0.37695167171531546,
+      -0.6919624322834996
+    ],
+    "rosette-nebula": [
+      37.963631814877765,
+      -0.12539332412960766,
+      -2.5530992206190914
+    ],
+    "omega-nebula": [
+      26.28943729639071,
+      -0.008071307224598298,
+      1.7613572994715732
+    ],
+    "helix-nebula": [
+      32.42371103684544,
+      -0.6377504131720577,
+      0.27501223437024375
+    ],
+    "ring-nebula": [
+      31.457147711303204,
+      0.8237753648412327,
+      2.6549458238957406
+    ],
+    "butterfly-nebula": [
+      28.218367139989677,
+      0.1692103258771871,
+      -0.848541411947495
+    ],
+    "cats-eye-nebula": [
+      33.15908030108456,
+      1.9202901404613715,
+      3.167459055337786
+    ],
+    "veil-nebula": [
+      32.074950318792126,
+      -0.2524336590113485,
+      2.4483881445969473
+    ],
+    "double-cluster": [
+      39.264154631289756,
+      -0.513932998098827,
+      6.516295749746253
+    ],
+    "hercules-cluster": [
+      20.869320381772688,
+      20.16291469626843,
+      19.862227679004558
+    ],
+    "omega-centauri": [
+      20.09672257061313,
+      5.468137764303598,
+      -15.630278350402465
+    ],
+    "large-magellanic-cloud": [
+      2.295930578959684,
+      -108.47030845390907,
+      -165.06753239086757
+    ],
+    "small-magellanic-cloud": [
+      -62.294661676336645,
+      -171.22487997221776,
+      -147.5580307969285
+    ],
+    "andromeda": [
+      1508.5722969970273,
+      -1127.0990277648946,
+      2439.6716625227386
+    ],
+    "centaurus-a": [
+      -8799.433327425482,
+      4893.299551804964,
+      -10706.73898108674
+    ],
+    "triangulum": [
+      2200.4907078907954,
+      -1912.9860016209545,
+      2275.50410651837
+    ],
+    "bodes-galaxy": [
+      8516.669546549014,
+      9314.62549738478,
+      6606.890640743576
+    ],
+    "whirlpool": [
+      3594.402999554363,
+      35387.80337108628,
+      13432.651462011558
+    ],
+    "messier-87": [
+      -4185.442787555411,
+      63814.288380102495,
+      -17199.523725056904
+    ],
+    "sun": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "mercury": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "venus": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "earth": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "moon": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "mars": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "jupiter": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "saturn": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "uranus": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "neptune": [
+      32.8,
+      0.0832,
+      0
+    ]
+  },
+  "model": "MW-reconstruction-2026.2",
+  "viewport": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.5
+  },
+  "fps": 54.03360890474237,
+  "frameMean": 18.506999999998758,
+  "p95": 19.5,
+  "drawCalls": 48,
+  "sampling": false,
+  "benchmark": {
+    "frames": 8575,
+    "milliseconds": 159575.3,
+    "startElapsed": 0,
+    "seeks": 0,
+    "pauses": 0,
+    "completed": true,
+    "uninterrupted": true
+  },
+  "phaseStats": [
+    {
+      "frames": 1162,
+      "milliseconds": 21573.7,
+      "worst": 54.900000000001455
+    },
+    {
+      "frames": 1290,
+      "milliseconds": 23989.199999999997,
+      "worst": 22.099999999998545
+    },
+    {
+      "frames": 1293,
+      "milliseconds": 24008.9,
+      "worst": 21.80000000000291
+    },
+    {
+      "frames": 1286,
+      "milliseconds": 23999.100000000006,
+      "worst": 36.60000000000582
+    },
+    {
+      "frames": 1289,
+      "milliseconds": 24002.899999999994,
+      "worst": 22.40000000000873
+    },
+    {
+      "frames": 1291,
+      "milliseconds": 23990.20000000001,
+      "worst": 21.60000000000582
+    },
+    {
+      "frames": 965,
+      "milliseconds": 18029.79999999999,
+      "worst": 25.10000000000582
+    }
+  ],
+  "lastInteraction": null,
+  "errors": [],
+  "contextLost": false,
+  "camera": [
+    -68.3943542126459,
+    73.99999999729137,
+    -120.7899511980386
+  ],
+  "localCamera": [
+    2.3,
+    2.3,
+    17
+  ]
+}

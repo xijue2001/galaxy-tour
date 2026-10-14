@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-14",
+  "completion": "Natural transition from 159.5 to 160 seconds observed. Timeline, milestones, time display and tour note hidden in free explore; replay click restores tour at zero and shows timeline.",
+  "mobile": [
+    {
+      "bounds": [
+        {
+          "height": 25.10344886779785,
+          "id": "replay-top",
+          "text": "Replay tour",
+          "width": 71.31896209716797,
+          "x": 138.75,
+          "y": 20
+        },
+        {
+          "height": 30.13793182373047,
+          "id": "languages",
+          "text": "中文English日本語",
+          "width": 120.1896514892578,
+          "x": 256.8793029785156,
+          "y": 17
+        }
+      ],
+      "errors": [],
+      "language": "en",
+      "mode": "explore",
+      "overflow": false,
+      "timelineHidden": true
+    },
+    {
+      "bounds": [
+        {
+          "height": 25.10344886779785,
+          "id": "replay-top",
+          "text": "ツアーを再生",
+          "width": 79.10344696044922,
+          "x": 130.96551513671875,
+          "y": 20
+        },
+        {
+          "height": 30.13793182373047,
+          "id": "languages",
+          "text": "中文English日本語",
+          "width": 120.1896514892578,
+          "x": 256.8793029785156,
+          "y": 17
+        }
+      ],
+      "errors": [],
+      "language": "ja",
+      "mode": "explore",
+      "overflow": false,
+      "timelineHidden": true
+    },
+    {
+      "bounds": [
+        {
+          "height": 25.10344886779785,
+          "id": "replay-top",
+          "text": "重新播放",
+          "width": 63.10344696044922,
+          "x": 146.96551513671875,
+          "y": 20
+        },
+        {
+          "height": 30.13793182373047,
+          "id": "languages",
+          "text": "中文English日本語",
+          "width": 120.1896514892578,
+          "x": 256.8793029785156,
+          "y": 17
+        }
+      ],
+      "errors": [],
+      "language": "zh-CN",
+      "mode": "explore",
+      "overflow": false,
+      "timelineHidden": true
+    }
+  ]
+}

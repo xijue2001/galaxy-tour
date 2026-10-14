@@ -1,0 +1,779 @@
+[
+  {
+    "id": "solar-system",
+    "image": "/assets/solar-system.jpg",
+    "dimensions": [
+      2925,
+      2229
+    ],
+    "translations": [
+      {
+        "caption": "太阳系天体的艺术排列。大小和距离不按同一比例，不能视为一张全景照片。",
+        "language": "zh-CN",
+        "name": "太阳系",
+        "overflow": false,
+        "selected": "solar-system",
+        "story": "太阳系包含太阳与八颗行星，年龄约为 46 亿年。本地臂位于人马臂和英仙臂之间。地图采用太阳距银心 8.2 千秒差距的近似模型。地球使用 NASA Blue Marble 球面合成素材；太阳颗粒、黑子和其他行星云带为参考观测的程序化示意，不是当前太阳活动或天气实况。",
+        "type": "恒星与行星系统"
+      },
+      {
+        "caption": "An artistic arrangement of Solar System bodies. Sizes and distances use different scales; this is not a panoramic photograph.",
+        "language": "en",
+        "name": "Solar System",
+        "overflow": false,
+        "selected": "solar-system",
+        "story": "The Sun and eight planets belong to a system about 4.6 billion years old.The Orion Spur lies between the Sagittarius and Perseus arms. Our map adopts a solar Galactocentric radius of 8.2 kiloparsecs.Earth uses NASA Blue Marble spherical imagery. Solar granules, spots and other planetary cloud bands are observation-informed illustrations, not current activity or weather.",
+        "type": "Star and planetary system"
+      },
+      {
+        "caption": "太陽系天体を並べた模式図です。大きさと距離は同じ縮尺ではなく、全景写真ではありません。",
+        "language": "ja",
+        "name": "太陽系",
+        "overflow": false,
+        "selected": "solar-system",
+        "story": "太陽と 8 個の惑星からなる系は、約 46 億年前に形成されました。オリオン腕は、いて座腕とペルセウス腕の間にあります。地図は太陽の銀河中心距離を 8.2 キロパーセクとしています。地球には NASA Blue Marble の球面合成画像を使います。太陽の粒状斑・黒点や他の惑星の雲帯は観測を参考にした模式表現で、現在の活動や天候ではありません。",
+        "type": "恒星・惑星系"
+      }
+    ]
+  },
+  {
+    "id": "alpha-centauri",
+    "image": "/assets/alpha-centauri.jpg",
+    "dimensions": [
+      1280,
+      836
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 WFPC2：A 在左，B 在右。滤镜数据合成显示颜色；光条属于成像效应。此图没有比邻星。",
+        "language": "zh-CN",
+        "name": "半人马座 α 恒星系统",
+        "overflow": false,
+        "selected": "alpha-centauri",
+        "story": "A/B 距太阳约 4.37 光年，互绕周期约为 80 年。A 是 G 型恒星，B 是 K 型恒星。巡游代表点位于 A/B；更接近太阳的比邻星与 A/B 相隔很远。图片只展示 A/B。",
+        "type": "多恒星系统"
+      },
+      {
+        "caption": "Hubble WFPC2: A at left, B at right. Filter data create the displayed colors; spikes are imaging effects. Proxima is outside this view.",
+        "language": "en",
+        "name": "Alpha Centauri system",
+        "overflow": false,
+        "selected": "alpha-centauri",
+        "story": "A/B lies about 4.37 light-years away and completes a mutual orbit in roughly 80 years. A is a G-type star and B a K-type star.Our waypoint represents A/B. Proxima is closer to the Sun but widely separated from the pair; it is absent from the sidebar image.",
+        "type": "Multiple-star system"
+      },
+      {
+        "caption": "ハッブル WFPC2：左が A、右が B。フィルターのデータを色に合成しています。光条は撮像効果で、プロキシマは含まれません。",
+        "language": "ja",
+        "name": "ケンタウルス座 α 星系",
+        "overflow": false,
+        "selected": "alpha-centauri",
+        "story": "A/B は約 4.37 光年先にあり、約 80 年で互いの周囲を公転します。A は G 型、B は K 型星です。代表地点は A/B です。太陽に近いプロキシマは連星から大きく離れ、側面の画像には写っていません。",
+        "type": "多重星系"
+      }
+    ]
+  },
+  {
+    "id": "pleiades",
+    "image": "/assets/pleiades.jpg",
+    "dimensions": [
+      1280,
+      850
+    ],
+    "translations": [
+      {
+        "caption": "2021 年于埃及拍摄、由 IAU 发布的昴星团观测照片。尘埃散射蓝色星光，反射云纱围绕亮星，并与更暗的尘埃结构相连；光条属于成像效应。",
+        "language": "zh-CN",
+        "name": "昴星团 · M45",
+        "overflow": false,
+        "selected": "pleiades",
+        "story": "采用 VLBI 距离 136.2 ± 1.2 秒差距，约 444 ± 4 光年。星团各成员的距离并不完全相同。星团年龄约一亿年，正穿过星际尘埃。尘粒更容易散射蓝光；它与气体本身发光的发射星云具有不同机制。",
+        "type": "疏散星团与反射星云"
+      },
+      {
+        "caption": "Observed in Egypt in 2021 and published by the IAU. Dust scatters blue starlight: reflection veils surround the bright stars and connect to darker dust. Spikes are imaging effects.",
+        "language": "en",
+        "name": "Pleiades · M45",
+        "overflow": false,
+        "selected": "pleiades",
+        "story": "We adopt a VLBI distance of 136.2 ± 1.2 parsecs, about 444 ± 4 light-years. Members occupy different depths.The cluster is roughly 100 million years old and is crossing interstellar dust. Preferential scattering of blue light explains the reflection nebula, unlike gas emission in M42.",
+        "type": "Open cluster / reflection nebula"
+      },
+      {
+        "caption": "2021 年にエジプトで撮影され、IAU が公開した観測写真です。塵が青い星光を散乱し、明るい星を包む反射雲と暗い塵がつながります。光条は撮像効果です。",
+        "language": "ja",
+        "name": "プレアデス星団（すばる）· M45",
+        "overflow": false,
+        "selected": "pleiades",
+        "story": "VLBI 距離 136.2 ± 1.2 パーセク、約 444 ± 4 光年を採用します。星団の各星には奥行きがあります。約 1 億歳の星団は星間塵を通過中です。青い光が散乱されやすいため青く見え、M42 のガスの発光とは機構が異なります。",
+        "type": "散開星団・反射星雲"
+      }
+    ]
+  },
+  {
+    "id": "orion-nebula",
+    "image": "/assets/orion-nebula.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "哈勃与地面望远镜数据的拼接。可见光及近红外滤镜映射为颜色，区分发光气体、恒星和暗尘埃。",
+        "language": "zh-CN",
+        "name": "猎户座大星云 · M42",
+        "overflow": false,
+        "selected": "orion-nebula",
+        "story": "M42 是猎户座之剑中的电离氢区。梯形星团的恒星辐射和星风塑造了星云。采用 Menten 等（2007）的 VLBI 距离 414 ± 7 秒差距，约 1350 ± 23 光年。不同测量与成员选取给出不同估计；该区域有真实厚度。",
+        "type": "发射星云与恒星形成区"
+      },
+      {
+        "caption": "Mosaic combining Hubble and ground-based observations. Visible and near-infrared filters are mapped to colors that distinguish emitting gas, stars and dark dust.",
+        "language": "en",
+        "name": "Orion Nebula · M42",
+        "overflow": false,
+        "selected": "orion-nebula",
+        "story": "M42 is an ionized-hydrogen region in Orion’s sword. Radiation and winds from the Trapezium sculpt its clouds.The adopted VLBI result is 414 ± 7 parsecs, about 1350 ± 23 light-years (Menten et al. 2007). Methods and selected members yield differing estimates; the region has physical depth.",
+        "type": "Emission nebula / stellar nursery"
+      },
+      {
+        "caption": "ハッブルと地上望遠鏡の観測を合成したモザイク。可視光・近赤外線のフィルターを色に対応させ、ガス、星、暗い塵を区別します。",
+        "language": "ja",
+        "name": "オリオン大星雲 · M42",
+        "overflow": false,
+        "selected": "orion-nebula",
+        "story": "M42 はオリオン座の剣にある電離水素領域です。トラペジウムの星の放射と恒星風が雲を形作ります。Menten ほか（2007）の VLBI 距離 414 ± 7 パーセク、約 1350 ± 23 光年を採用します。測定方法や対象星で推定値は異なり、領域には厚みがあります。",
+        "type": "輝線星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "crab-nebula",
+    "image": "/assets/crab-nebula.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 WFPC2 的窄带合成。氧和硫等气体谱线映射为显示颜色；它们强调不同气体细丝，不代表裸眼颜色。",
+        "language": "zh-CN",
+        "name": "蟹状星云 · M1",
+        "overflow": false,
+        "selected": "crab-nebula",
+        "story": "蟹状星云位于金牛座方向，常用近似距离为 6500 光年。它是大质量恒星死亡后的遗迹。中心是快速自转的中子星。抛出的气体与脉冲星风具有不同的辐射机制；因此局部画面展示外部细丝与内部弥散光两层。",
+        "type": "超新星遗迹与脉冲星风云"
+      },
+      {
+        "caption": "Hubble WFPC2 narrow-band composite. Oxygen and sulfur emission lines are mapped to display colors, emphasizing different gas filaments rather than naked-eye appearance.",
+        "language": "en",
+        "name": "Crab Nebula · M1",
+        "overflow": false,
+        "selected": "crab-nebula",
+        "story": "Toward Taurus, the Crab is commonly placed at about 6500 light-years. It is the aftermath of a massive star’s death.A rapidly rotating neutron star occupies its center. Ejected gas and the pulsar wind produce distinct radiation, motivating separate outer filaments and inner diffuse light in our scene.",
+        "type": "Supernova remnant / pulsar wind nebula"
+      },
+      {
+        "caption": "ハッブル WFPC2 の狭帯域合成。酸素や硫黄の輝線を表示色に対応させ、ガスの繊維を強調しています。肉眼での色ではありません。",
+        "language": "ja",
+        "name": "かに星雲 · M1",
+        "overflow": false,
+        "selected": "crab-nebula",
+        "story": "おうし座方向にあるかに星雲は、約 6500 光年先とされています。大質量星の死によって生まれた残骸です。中心には高速で自転する中性子星があります。放出ガスとパルサー風は異なる放射を生むため、画面は外側の繊維と内側の淡い光を分けて表しています。",
+        "type": "超新星残骸・パルサー風星雲"
+      }
+    ]
+  },
+  {
+    "id": "sagittarius-a",
+    "image": "/assets/sagittarius-a.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "2022 年公布的 EHT 图像，来自 2017 年 1.3 毫米射电观测。橙色表示射电亮度，不是可见光颜色；这是多次重建的平均图像。",
+        "language": "zh-CN",
+        "name": "银河中心 · Sagittarius A*",
+        "overflow": false,
+        "selected": "sagittarius-a",
+        "story": "黑洞本身不发光，附近热气体的辐射在强引力下弯曲，形成亮环和暗影。采用 8.2 千秒差距、约 26740 光年的地图模型；EHT 页面给出的近似为 27000 光年。地图将标记配准到银心原点，同时保留观测银经银纬。",
+        "type": "超大质量黑洞"
+      },
+      {
+        "caption": "EHT image released in 2022 from 2017 observations at 1.3 mm. Orange represents radio brightness, not visible-light color. This is an average of reconstructed images.",
+        "language": "en",
+        "name": "Galactic Center · Sagittarius A*",
+        "overflow": false,
+        "selected": "sagittarius-a",
+        "story": "The black hole itself emits no light. Radiation from nearby hot gas is bent by strong gravity into a bright ring around a shadow.Our map adopts 8.2 kiloparsecs, about 26740 light-years; EHT’s public description rounds to 27000 light-years. The marker is registered to the Galactic origin while observed sky coordinates remain in the record.",
+        "type": "Supermassive black hole"
+      },
+      {
+        "caption": "2017 年の 1.3 mm 電波観測から再構成し、2022 年に公表した EHT 画像です。橙色は電波の明るさを示し、可視光の色ではありません。複数の再構成画像を平均しています。",
+        "language": "ja",
+        "name": "銀河中心 · いて座 A*",
+        "overflow": false,
+        "selected": "sagittarius-a",
+        "story": "ブラックホール自体は光を出しません。近くの高温ガスの放射が強い重力で曲げられ、影の周囲に明るいリングを作ります。地図は 8.2 キロパーセク、約 26740 光年を採用します。EHT の一般向け値は約 27000 光年です。観測座標を残したまま、標識を銀河中心原点に合わせています。",
+        "type": "超大質量ブラックホール"
+      }
+    ]
+  },
+  {
+    "id": "eagle-nebula",
+    "image": "/assets/eagle-nebula.jpg",
+    "dimensions": [
+      1280,
+      1198
+    ],
+    "translations": [
+      {
+        "caption": "韦布 NIRCam 与 MIRI 红外合成；显示色分别强调恒星与尘埃。",
+        "language": "zh-CN",
+        "name": "鹰状星云 · M16／创生之柱",
+        "overflow": false,
+        "selected": "eagle-nebula",
+        "story": "创生之柱是鹰状星云 M16 内的气体与尘埃柱，不是另一个星系。年轻恒星的辐射雕刻柱体，浓密尘埃中仍有新恒星形成。",
+        "type": "星云与恒星形成区"
+      },
+      {
+        "caption": "Webb NIRCam/MIRI infrared composite; assigned colors distinguish stars and dust.",
+        "language": "en",
+        "name": "Eagle Nebula · M16 / Pillars of Creation",
+        "overflow": false,
+        "selected": "eagle-nebula",
+        "story": "The Pillars of Creation are gas and dust structures within M16, the Eagle Nebula.Radiation from young stars sculpts the columns while denser material continues forming stars.",
+        "type": "Nebula / stellar nursery"
+      },
+      {
+        "caption": "Webb NIRCam/MIRI の赤外線合成。表示色で星と塵を区別しています。",
+        "language": "ja",
+        "name": "わし星雲 · M16／創造の柱",
+        "overflow": false,
+        "selected": "eagle-nebula",
+        "story": "創造の柱は、わし星雲 M16 の内部にあるガスと塵の構造です。若い星の放射が柱を削り、密度の高い内部では新たな星が生まれています。",
+        "type": "星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "carina-cliffs",
+    "image": "/assets/carina-cliffs.jpg",
+    "dimensions": [
+      1280,
+      741
+    ],
+    "translations": [
+      {
+        "caption": "韦布 NIRCam 红外观测；金色云壁与蓝色空洞为波段映射色。",
+        "language": "zh-CN",
+        "name": "船底座 NGC 3324／宇宙悬崖",
+        "overflow": false,
+        "selected": "carina-cliffs",
+        "story": "宇宙悬崖是 NGC 3324 内部气体空洞的边缘，位于船底座恒星形成区域。年轻大质量恒星的紫外辐射与星风侵蚀云壁，留下山脊状结构。",
+        "type": "星云与恒星形成区"
+      },
+      {
+        "caption": "Webb NIRCam infrared observation; gold ridges and blue cavities are wavelength-mapped colors.",
+        "language": "en",
+        "name": "NGC 3324 / Cosmic Cliffs",
+        "overflow": false,
+        "selected": "carina-cliffs",
+        "story": "The Cosmic Cliffs trace the rim of a gaseous cavity within NGC 3324 in Carina.Ultraviolet radiation and winds from young massive stars erode its cloud wall.",
+        "type": "Nebula / stellar nursery"
+      },
+      {
+        "caption": "Webb NIRCam の赤外線観測。金色の稜線と青い空洞は波長を色に対応させています。",
+        "language": "ja",
+        "name": "NGC 3324／宇宙の崖",
+        "overflow": false,
+        "selected": "carina-cliffs",
+        "story": "宇宙の崖は、りゅうこつ座の NGC 3324 内にあるガス空洞の縁です。若い大質量星の紫外線と恒星風が雲の壁を削り、稜線を作ります。",
+        "type": "星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "lagoon-nebula",
+    "image": "/assets/lagoon-nebula.jpg",
+    "dimensions": [
+      1280,
+      568
+    ],
+    "translations": [
+      {
+        "caption": "ESO VISTA 近红外合成；图像强调嵌入恒星与尘埃轮廓，并非裸眼颜色。",
+        "language": "zh-CN",
+        "name": "礁湖星云 · M8",
+        "overflow": false,
+        "selected": "lagoon-nebula",
+        "story": "礁湖星云是人马座方向的大型恒星形成区，暗尘埃带分隔了明亮气体。红外观测能穿透部分尘埃，显露可见光中被遮住的恒星群。",
+        "type": "星云与恒星形成区"
+      },
+      {
+        "caption": "ESO VISTA near-infrared composite reveals embedded stars and dust contours; colors are not naked-eye appearance.",
+        "language": "en",
+        "name": "Lagoon Nebula · M8",
+        "overflow": false,
+        "selected": "lagoon-nebula",
+        "story": "M8 is a large stellar nursery in Sagittarius, crossed by dark dust lanes.Infrared observations reveal stars hidden behind some of the visible-light obscuration.",
+        "type": "Nebula / stellar nursery"
+      },
+      {
+        "caption": "ESO VISTA の近赤外線合成。埋もれた星と塵の輪郭を示し、肉眼の色とは異なります。",
+        "language": "ja",
+        "name": "干潟星雲 · M8",
+        "overflow": false,
+        "selected": "lagoon-nebula",
+        "story": "M8 は、いて座方向に広がる星形成領域で、暗い塵の帯が明るいガスを分けています。赤外線では塵の一部を透かして、可視光で隠れる星々が見えます。",
+        "type": "星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "trifid-nebula",
+    "image": "/assets/trifid-nebula.jpg",
+    "dimensions": [
+      1280,
+      2105
+    ],
+    "translations": [
+      {
+        "caption": "ESO WFI 可见光合成：红色发射区、蓝色反射区与暗带可同时辨认。",
+        "language": "zh-CN",
+        "name": "三叶星云 · M20",
+        "overflow": false,
+        "selected": "trifid-nebula",
+        "story": "三叶星云把发射气体、反射尘埃与暗色尘埃带结合在同一区域。暗带分割明亮核心，旁侧蓝色区域主要散射年轻恒星的光。",
+        "type": "发射、反射与暗星云"
+      },
+      {
+        "caption": "ESO WFI optical composite shows the red emission region, blue reflection region and dark lanes.",
+        "language": "en",
+        "name": "Trifid Nebula · M20",
+        "overflow": false,
+        "selected": "trifid-nebula",
+        "story": "M20 combines emission, reflection and dark nebulosity in one region.Dust lanes divide the luminous core; adjacent blue dust scatters young starlight.",
+        "type": "Emission, reflection and dark nebula"
+      },
+      {
+        "caption": "ESO WFI の可視光合成。赤い輝線領域、青い反射領域、暗い帯が見えます。",
+        "language": "ja",
+        "name": "三裂星雲 · M20",
+        "overflow": false,
+        "selected": "trifid-nebula",
+        "story": "M20 には輝線星雲、反射星雲、暗黒星雲が同居しています。暗い帯が明るい中心を分け、隣の青い塵は若い星の光を散乱します。",
+        "type": "輝線・反射・暗黒星雲"
+      }
+    ]
+  },
+  {
+    "id": "horsehead-nebula",
+    "image": "/assets/horsehead-nebula.jpg",
+    "dimensions": [
+      1280,
+      1317
+    ],
+    "translations": [
+      {
+        "caption": "ESO VLT B/V/R 可见光合成；暗马头遮挡了背景星光与气体发光。",
+        "language": "zh-CN",
+        "name": "马头星云 · Barnard 33",
+        "overflow": false,
+        "selected": "horsehead-nebula",
+        "story": "马头是浓密尘埃在背景发光气体前形成的剪影。它属于猎户座分子云环境；可见光中的暗影并不意味着那里没有物质。",
+        "type": "暗星云"
+      },
+      {
+        "caption": "ESO VLT B/V/R optical composite; the dark cloud obscures the luminous background.",
+        "language": "en",
+        "name": "Horsehead Nebula · Barnard 33",
+        "overflow": false,
+        "selected": "horsehead-nebula",
+        "story": "The Horsehead is a silhouette of dense dust in front of luminous background gas.It belongs to the Orion molecular-cloud environment; darkness marks obscuration, not empty space.",
+        "type": "Dark nebula"
+      },
+      {
+        "caption": "ESO VLT の B/V/R 可視光合成。暗い雲が背景の光を遮ります。",
+        "language": "ja",
+        "name": "馬頭星雲 · Barnard 33",
+        "overflow": false,
+        "selected": "horsehead-nebula",
+        "story": "馬頭は、背景の発光ガスを遮る濃い塵のシルエットです。オリオン座の分子雲に属し、可視光での暗さは物質がないことを意味しません。",
+        "type": "暗黒星雲"
+      }
+    ]
+  },
+  {
+    "id": "rosette-nebula",
+    "image": "/assets/rosette-nebula.jpg",
+    "dimensions": [
+      1280,
+      1121
+    ],
+    "translations": [
+      {
+        "caption": "ESO/S. Brunier 可见光宽视场照片；发射气体包围中央 NGC 2244。",
+        "language": "zh-CN",
+        "name": "玫瑰星云／NGC 2244",
+        "overflow": false,
+        "selected": "rosette-nebula",
+        "story": "玫瑰星云涵盖 NGC 2237 一带，中央年轻疏散星团是 NGC 2244。星团的辐射照亮氢气，星风塑造了中央空洞；不同成员的距离并不相同。",
+        "type": "星云与恒星形成区"
+      },
+      {
+        "caption": "ESO/S. Brunier wide-field optical photograph; glowing gas surrounds NGC 2244.",
+        "language": "en",
+        "name": "Rosette Nebula / NGC 2244",
+        "overflow": false,
+        "selected": "rosette-nebula",
+        "story": "The Rosette includes the NGC 2237 region around the young open cluster NGC 2244.Stellar radiation illuminates hydrogen and winds carve the central cavity; members span different depths.",
+        "type": "Nebula / stellar nursery"
+      },
+      {
+        "caption": "ESO/S. Brunier の広域可視光写真。発光ガスが NGC 2244 を囲みます。",
+        "language": "ja",
+        "name": "ばら星雲／NGC 2244",
+        "overflow": false,
+        "selected": "rosette-nebula",
+        "story": "ばら星雲は NGC 2237 付近に広がり、中心に若い散開星団 NGC 2244 があります。星の放射が水素を照らし、恒星風が中央の空洞を作ります。各メンバーには奥行きがあります。",
+        "type": "星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "omega-nebula",
+    "image": "/assets/omega-nebula.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "ESO VST 多滤镜观测合成；密集恒星场与发射云弧共同呈现。",
+        "language": "zh-CN",
+        "name": "天鹅／欧米伽星云 · M17",
+        "overflow": false,
+        "selected": "omega-nebula",
+        "story": "M17 的明亮气体与暗尘埃共同描绘恒星诞生的环境。其内部年轻热星不断电离周围气体，光学云弧只是更大云团的可见部分。",
+        "type": "星云与恒星形成区"
+      },
+      {
+        "caption": "ESO VST multi-filter observational composite includes a rich star field and emission arcs.",
+        "language": "en",
+        "name": "Swan / Omega Nebula · M17",
+        "overflow": false,
+        "selected": "omega-nebula",
+        "story": "M17 combines luminous gas and dark dust in an active stellar nursery.Young hot stars ionize nearby gas; the optical arc is only part of a larger cloud complex.",
+        "type": "Nebula / stellar nursery"
+      },
+      {
+        "caption": "ESO VST の複数フィルター合成。密集した星野と輝線の雲の弧を示します。",
+        "language": "ja",
+        "name": "オメガ星雲 · M17",
+        "overflow": false,
+        "selected": "omega-nebula",
+        "story": "M17 の明るいガスと暗い塵は、星の誕生環境を描きます。若い高温の星がガスを電離し、可視光の弧は大きな雲の一部を示します。",
+        "type": "星雲・星形成領域"
+      }
+    ]
+  },
+  {
+    "id": "helix-nebula",
+    "image": "/assets/helix-nebula.jpg",
+    "dimensions": [
+      1280,
+      1185
+    ],
+    "translations": [
+      {
+        "caption": "ESO WFI 蓝、绿、红滤镜合成；壳层与中央淡弱气体颜色不同。",
+        "language": "zh-CN",
+        "name": "螺旋星云 · NGC 7293",
+        "overflow": false,
+        "selected": "helix-nebula",
+        "story": "邻近的螺旋星云是衰老恒星抛出的气体壳层，与行星本身无关。环状外观来自三维结构的投影，壳层中还有许多浓密的彗星状结。",
+        "type": "行星状星云"
+      },
+      {
+        "caption": "ESO WFI blue/green/red filter composite distinguishes the shell and faint inner gas.",
+        "language": "en",
+        "name": "Helix Nebula · NGC 7293",
+        "overflow": false,
+        "selected": "helix-nebula",
+        "story": "The nearby Helix is gas shed by an aging star, not a cloud of planets.Its apparent ring is a projection of a three-dimensional shell containing dense cometary knots.",
+        "type": "Planetary nebula"
+      },
+      {
+        "caption": "ESO WFI の青・緑・赤フィルター合成。殻と内部の淡いガスを色で区別します。",
+        "language": "ja",
+        "name": "らせん星雲 · NGC 7293",
+        "overflow": false,
+        "selected": "helix-nebula",
+        "story": "近くにあるらせん星雲は、老いた星が放出したガスで、惑星の集まりではありません。環状の姿は三次元の殻の投影で、密度の高い彗星状の結び目も含みます。",
+        "type": "惑星状星雲"
+      }
+    ]
+  },
+  {
+    "id": "ring-nebula",
+    "image": "/assets/ring-nebula.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 WFC3 发射线合成；颜色区分不同气体辐射。",
+        "language": "zh-CN",
+        "name": "环状星云 · M57",
+        "overflow": false,
+        "selected": "ring-nebula",
+        "story": "M57 是天琴座方向的行星状星云，中心恒星正走向白矮星阶段。明亮环内也有低密度气体；它不是一只平面的空心圆环。",
+        "type": "行星状星云"
+      },
+      {
+        "caption": "Hubble WFC3 emission-line composite; assigned colors separate different gas emissions.",
+        "language": "en",
+        "name": "Ring Nebula · M57",
+        "overflow": false,
+        "selected": "ring-nebula",
+        "story": "M57 is a planetary nebula in Lyra whose central star is evolving toward a white dwarf.Lower-density gas occupies the bright ring’s interior; it is not a flat empty hoop.",
+        "type": "Planetary nebula"
+      },
+      {
+        "caption": "ハッブル WFC3 の輝線合成。異なるガスの放射を表示色で区別します。",
+        "language": "ja",
+        "name": "環状星雲 · M57",
+        "overflow": false,
+        "selected": "ring-nebula",
+        "story": "M57 は、こと座方向の惑星状星雲で、中心星は白色矮星へ進化しています。明るい環の内部にも低密度のガスがあり、平たい空の輪ではありません。",
+        "type": "惑星状星雲"
+      }
+    ]
+  },
+  {
+    "id": "butterfly-nebula",
+    "image": "/assets/butterfly-nebula.jpg",
+    "dimensions": [
+      1280,
+      1492
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 WFC3 多发射线合成；中央暗腰与两翼具有不同密度和辐射。",
+        "language": "zh-CN",
+        "name": "蝴蝶星云 · NGC 6302",
+        "overflow": false,
+        "selected": "butterfly-nebula",
+        "story": "蝴蝶状双极气体流从被浓密尘埃遮挡的中央恒星附近展开。中央尘埃带约束流出方向，形成翼状结构；它属于行星状星云。",
+        "type": "行星状星云"
+      },
+      {
+        "caption": "Hubble WFC3 emission-line composite shows the dark waist and differently emitting lobes.",
+        "language": "en",
+        "name": "Butterfly Nebula · NGC 6302",
+        "overflow": false,
+        "selected": "butterfly-nebula",
+        "story": "Bipolar gas flows form wings around a central star obscured by dense dust.The dusty waist constrains the outflow; this is a planetary nebula.",
+        "type": "Planetary nebula"
+      },
+      {
+        "caption": "ハッブル WFC3 の輝線合成。暗いくびれと、異なる放射を持つ両翼を示します。",
+        "language": "ja",
+        "name": "蝶星雲 · NGC 6302",
+        "overflow": false,
+        "selected": "butterfly-nebula",
+        "story": "濃い塵に隠れた中心星の周囲から、双極のガス流が翼のように広がります。塵のくびれが流出方向を制約する惑星状星雲です。",
+        "type": "惑星状星雲"
+      }
+    ]
+  },
+  {
+    "id": "cats-eye-nebula",
+    "image": "/assets/cats-eye-nebula.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "哈勃观测合成；中心结构与淡弱环壳都来自观测，展示深度另行重建。",
+        "language": "zh-CN",
+        "name": "猫眼星云 · NGC 6543",
+        "overflow": false,
+        "selected": "cats-eye-nebula",
+        "story": "猫眼星云的明亮核心周围围绕着淡弱环壳，记录了恒星失去物质的历史。不同气体层并非同一个简单球壳；中央热星使它们持续发光。",
+        "type": "行星状星云"
+      },
+      {
+        "caption": "Hubble observational composite; both the bright core and faint shells are observed, while display depth is reconstructed.",
+        "language": "en",
+        "name": "Cat’s Eye Nebula · NGC 6543",
+        "overflow": false,
+        "selected": "cats-eye-nebula",
+        "story": "Faint shells around the Cat’s Eye’s bright core record the star’s mass-loss history.The gas has a complex structure rather than one simple sphere, illuminated by a hot central star.",
+        "type": "Planetary nebula"
+      },
+      {
+        "caption": "ハッブルの観測合成。中心と淡い殻は観測に基づきますが、表示の奥行きは別途再構成しています。",
+        "language": "ja",
+        "name": "キャッツアイ星雲 · NGC 6543",
+        "overflow": false,
+        "selected": "cats-eye-nebula",
+        "story": "キャッツアイの明るい中心を囲む淡い殻は、星の質量放出の歴史を示します。ガスは単純な球殻ではなく複雑な構造で、中心の高温星が照らしています。",
+        "type": "惑星状星雲"
+      }
+    ]
+  },
+  {
+    "id": "veil-nebula",
+    "image": "/assets/veil-nebula.jpg",
+    "dimensions": [
+      1280,
+      897
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 WFC3 五滤镜合成；蓝色主要突出氧，红色突出氢与氮的辐射。",
+        "language": "zh-CN",
+        "name": "面纱星云／天鹅座环",
+        "overflow": false,
+        "selected": "veil-nebula",
+        "story": "面纱是天鹅座环超新星遗迹的可见光结构，包含 NGC 6960、NGC 6992 等部分。冲击波激发了曲折细丝；当前图片展示其中一段，而不是整个环。",
+        "type": "超新星遗迹"
+      },
+      {
+        "caption": "Hubble WFC3 five-filter composite; blue emphasizes oxygen and red hydrogen/nitrogen emission.",
+        "language": "en",
+        "name": "Veil Nebula / Cygnus Loop",
+        "overflow": false,
+        "selected": "veil-nebula",
+        "story": "The Veil traces the optical Cygnus Loop supernova remnant, including NGC 6960 and NGC 6992.Shock waves illuminate winding filaments; this image shows a portion, not the entire loop.",
+        "type": "Supernova remnant"
+      },
+      {
+        "caption": "ハッブル WFC3 の5フィルター合成。青は主に酸素、赤は水素と窒素の放射を強調します。",
+        "language": "ja",
+        "name": "網状星雲／はくちょう座ループ",
+        "overflow": false,
+        "selected": "veil-nebula",
+        "story": "網状星雲は、NGC 6960 や NGC 6992 を含む超新星残骸の可視光構造です。衝撃波が曲がった繊維を発光させます。この画像はループ全体ではなく一部です。",
+        "type": "超新星残骸"
+      }
+    ]
+  },
+  {
+    "id": "double-cluster",
+    "image": "/assets/double-cluster.jpg",
+    "dimensions": [
+      1280,
+      1119
+    ],
+    "translations": [
+      {
+        "caption": "ESO/S. Brunier 可见光照片同时覆盖两座星团。",
+        "language": "zh-CN",
+        "name": "英仙座双星团 · NGC 869／884",
+        "overflow": false,
+        "selected": "double-cluster",
+        "story": "两座年轻疏散星团在英仙座方向相邻，却各自拥有独立的成员群。蓝色热星占据视觉主体，也能看到少量暖色恒星。",
+        "type": "双疏散星团"
+      },
+      {
+        "caption": "ESO/S. Brunier optical photograph includes both clusters.",
+        "language": "en",
+        "name": "Double Cluster · NGC 869 / 884",
+        "overflow": false,
+        "selected": "double-cluster",
+        "story": "Two young open clusters share the Perseus direction but have distinct member populations.Blue hot stars dominate the view, with a smaller number of warm-colored stars.",
+        "type": "Pair of open clusters"
+      },
+      {
+        "caption": "ESO/S. Brunier の可視光写真で、両方の星団を同時に示します。",
+        "language": "ja",
+        "name": "ペルセウス座二重星団 · NGC 869／884",
+        "overflow": false,
+        "selected": "double-cluster",
+        "story": "ペルセウス座方向に隣り合う二つの若い散開星団は、それぞれ独立したメンバーを持ちます。青い高温星が目立ち、少数の暖色の星も見られます。",
+        "type": "二つの散開星団"
+      }
+    ]
+  },
+  {
+    "id": "hercules-cluster",
+    "image": "/assets/hercules-cluster.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "哈勃 ACS 蓝、红及近红外滤镜合成；近红外映射为红色。",
+        "language": "zh-CN",
+        "name": "武仙座球状星团 · M13",
+        "overflow": false,
+        "selected": "hercules-cluster",
+        "story": "M13 的古老恒星组成近球形分布，中央区域非常密集。它属于银河晕中的球状星团，与疏散星团的结构和演化不同。",
+        "type": "球状星团"
+      },
+      {
+        "caption": "Hubble ACS blue, red and near-infrared filter composite; near-infrared is mapped to red.",
+        "language": "en",
+        "name": "Hercules Globular Cluster · M13",
+        "overflow": false,
+        "selected": "hercules-cluster",
+        "story": "M13’s old stars form an approximately spherical distribution with a densely packed core.This Galactic-halo globular cluster differs from a loose open cluster in structure and evolution.",
+        "type": "Globular cluster"
+      },
+      {
+        "caption": "ハッブル ACS の青・赤・近赤外線フィルター合成。近赤外線を赤に対応させています。",
+        "language": "ja",
+        "name": "ヘルクレス座球状星団 · M13",
+        "overflow": false,
+        "selected": "hercules-cluster",
+        "story": "M13 の古い星々はほぼ球形に分布し、中心は非常に密集しています。銀河ハローの球状星団で、散開星団とは構造と進化が異なります。",
+        "type": "球状星団"
+      }
+    ]
+  },
+  {
+    "id": "omega-centauri",
+    "image": "/assets/omega-centauri.jpg",
+    "dimensions": [
+      1280,
+      1280
+    ],
+    "translations": [
+      {
+        "caption": "ESO VST/OmegaCAM 广域多滤镜观测；点状恒星保持独立细节。",
+        "language": "zh-CN",
+        "name": "半人马座 ω · NGC 5139",
+        "overflow": false,
+        "selected": "omega-centauri",
+        "story": "半人马座 ω 是银河中规模巨大的球状星团，包含数百万颗恒星。宽视场能显示稀疏外围向密集核心的连续变化；成员并非完全同龄同成分。",
+        "type": "球状星团"
+      },
+      {
+        "caption": "ESO VST/OmegaCAM wide-field multi-filter observation resolves many individual stars.",
+        "language": "en",
+        "name": "Omega Centauri · NGC 5139",
+        "overflow": false,
+        "selected": "omega-centauri",
+        "story": "Omega Centauri is a massive Galactic globular cluster containing millions of stars.The wide field reveals its diffuse outskirts and dense core; members do not all share one age or composition.",
+        "type": "Globular cluster"
+      },
+      {
+        "caption": "ESO VST/OmegaCAM の広域複数フィルター観測。多数の星を個別に捉えています。",
+        "language": "ja",
+        "name": "ケンタウルス座 ω · NGC 5139",
+        "overflow": false,
+        "selected": "omega-centauri",
+        "story": "ケンタウルス座 ω は数百万の星を含む巨大な球状星団です。広域画像は淡い外縁から密集した中心への変化を示します。星々の年齢や組成は一様ではありません。",
+        "type": "球状星団"
+      }
+    ]
+  }
+]

@@ -1,0 +1,742 @@
+
+> galaxy-tour@5.0.0 check
+> node --check server.mjs && node --check src/app.js && node --check src/galaxy.js && node --check src/tour.js && node --check src/local-scenes.js && node --check src/observation-scenes.js && node --check src/marker-layout.js && node --check src/catalog-utils.js && node --check src/data.js && node --check src/exploration-data.js && node --check src/i18n.js && node qa/check-model.mjs && node qa/check-exploration.mjs && node --check src/motion.js && node --check src/solar-scene.js && node --check src/solar-data.js && node --check src/extragalactic-data.js && node --check src/galaxy-environment.js && node qa/check-motion.mjs && node --check src/deep-sky.js && node --check src/cosmic-scales.js && node --check src/nearby-galaxies.js && node qa/check-scales.mjs
+
+PASS: 72869 assertions; 381 buffer attributes; 6,371,720 finite values.
+{
+  "model": "MW-reconstruction-2026.2",
+  "seed": 731927,
+  "threeRevision": "180",
+  "qualities": {
+    "low": {
+      "starCount": 60000,
+      "dustCount": 1400,
+      "hazeCount": 3200,
+      "localCounts": {
+        "solar-system": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "alpha-centauri": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 3
+        },
+        "pleiades": {
+          "starCount": 1066,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "orion-nebula": {
+          "starCount": 1432,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "crab-nebula": {
+          "starCount": 1024,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sagittarius-a": {
+          "starCount": 1228,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "eagle-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "carina-cliffs": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "lagoon-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "trifid-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "horsehead-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "rosette-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "helix-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "ring-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "butterfly-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "cats-eye-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "veil-nebula": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "double-cluster": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "hercules-cluster": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-centauri": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "large-magellanic-cloud": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "small-magellanic-cloud": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "andromeda": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "centaurus-a": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "triangulum": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "bodes-galaxy": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "whirlpool": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "messier-87": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sun": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mercury": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "venus": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "earth": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "moon": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mars": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "jupiter": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "saturn": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "uranus": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "neptune": {
+          "starCount": 1023,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        }
+      }
+    },
+    "medium": {
+      "starCount": 140000,
+      "dustCount": 2800,
+      "hazeCount": 6500,
+      "localCounts": {
+        "solar-system": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "alpha-centauri": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 3
+        },
+        "pleiades": {
+          "starCount": 1720,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "orion-nebula": {
+          "starCount": 2310,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "crab-nebula": {
+          "starCount": 1651,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sagittarius-a": {
+          "starCount": 1980,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "eagle-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "carina-cliffs": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "lagoon-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "trifid-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "horsehead-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "rosette-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "helix-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "ring-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "butterfly-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "cats-eye-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "veil-nebula": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "double-cluster": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "hercules-cluster": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-centauri": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "large-magellanic-cloud": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "small-magellanic-cloud": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "andromeda": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "centaurus-a": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "triangulum": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "bodes-galaxy": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "whirlpool": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "messier-87": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sun": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mercury": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "venus": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "earth": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "moon": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mars": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "jupiter": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "saturn": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "uranus": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "neptune": {
+          "starCount": 1650,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        }
+      }
+    },
+    "high": {
+      "starCount": 260000,
+      "dustCount": 4500,
+      "hazeCount": 10500,
+      "localCounts": {
+        "solar-system": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "alpha-centauri": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 3
+        },
+        "pleiades": {
+          "starCount": 2580,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "orion-nebula": {
+          "starCount": 3465,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "crab-nebula": {
+          "starCount": 2476,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sagittarius-a": {
+          "starCount": 2970,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "eagle-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "carina-cliffs": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "lagoon-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "trifid-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "horsehead-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "rosette-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "helix-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "ring-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "butterfly-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "cats-eye-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "veil-nebula": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "double-cluster": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "hercules-cluster": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "omega-centauri": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "large-magellanic-cloud": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "small-magellanic-cloud": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "andromeda": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "centaurus-a": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "triangulum": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "bodes-galaxy": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "whirlpool": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "messier-87": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 0
+        },
+        "sun": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mercury": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "venus": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "earth": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "moon": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "mars": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "jupiter": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "saturn": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "uranus": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        },
+        "neptune": {
+          "starCount": 2475,
+          "dustCount": 0,
+          "gasCount": 0,
+          "stellarMeshCount": 1
+        }
+      }
+    }
+  },
+  "checks": 72869,
+  "bufferAttributesChecked": 381,
+  "numericBufferValuesChecked": 6371720,
+  "elapsedMs": 783
+}
+PASS: 1325 exploration/search/hit-area checks.
+PASS: 379 independent-clock, phase, parent, synchronous-Moon and anchor checks.
+PASS: 1251 continuous-scale, translation, geometry and fixed-sky checks.

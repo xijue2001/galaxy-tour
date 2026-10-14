@@ -1,0 +1,103 @@
+{
+  "checkedOn": "2026-10-13",
+  "projectBytes": 42269350,
+  "dependencyBytes": 30765367,
+  "imageBytes": 8174902,
+  "screenshotBytes": 2720408,
+  "qaBytes": 319421,
+  "excludingDependenciesBytes": 11503983,
+  "runtimeSourceDocsAndImagesBytes": 8464154,
+  "newDownloadedImageBytes": 6943914,
+  "netNewImageBytes": 6577181,
+  "replacedPleiadesBytes": 384789,
+  "assetFiles": [
+    {
+      "name": "assets/alpha-centauri.jpg",
+      "bytes": 79327
+    },
+    {
+      "name": "assets/butterfly-nebula.jpg",
+      "bytes": 315102
+    },
+    {
+      "name": "assets/carina-cliffs.jpg",
+      "bytes": 291704
+    },
+    {
+      "name": "assets/cats-eye-nebula.jpg",
+      "bytes": 185472
+    },
+    {
+      "name": "assets/crab-nebula.jpg",
+      "bytes": 451157
+    },
+    {
+      "name": "assets/double-cluster.jpg",
+      "bytes": 512920
+    },
+    {
+      "name": "assets/eagle-nebula.jpg",
+      "bytes": 489369
+    },
+    {
+      "name": "assets/earth-blue-marble.jpg",
+      "bytes": 266599
+    },
+    {
+      "name": "assets/helix-nebula.jpg",
+      "bytes": 152243
+    },
+    {
+      "name": "assets/hercules-cluster.jpg",
+      "bytes": 1011888
+    },
+    {
+      "name": "assets/horsehead-nebula.jpg",
+      "bytes": 327157
+    },
+    {
+      "name": "assets/lagoon-nebula.jpg",
+      "bytes": 412569
+    },
+    {
+      "name": "assets/omega-centauri.jpg",
+      "bytes": 652467
+    },
+    {
+      "name": "assets/omega-nebula.jpg",
+      "bytes": 582928
+    },
+    {
+      "name": "assets/orion-nebula.jpg",
+      "bytes": 218524
+    },
+    {
+      "name": "assets/pleiades.jpg",
+      "bytes": 384789
+    },
+    {
+      "name": "assets/ring-nebula.jpg",
+      "bytes": 181669
+    },
+    {
+      "name": "assets/rosette-nebula.jpg",
+      "bytes": 529869
+    },
+    {
+      "name": "assets/sagittarius-a.jpg",
+      "bytes": 62877
+    },
+    {
+      "name": "assets/solar-system.jpg",
+      "bytes": 419103
+    },
+    {
+      "name": "assets/trifid-nebula.jpg",
+      "bytes": 354895
+    },
+    {
+      "name": "assets/veil-nebula.jpg",
+      "bytes": 292274
+    }
+  ]
+}

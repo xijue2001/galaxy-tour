@@ -1,0 +1,15 @@
+{
+  "checkedOn": "2026-10-14",
+  "version": "5.1.0",
+  "projectBytes": 50189767,
+  "dependencyBytes": 30765367,
+  "imageBytes": 12314435,
+  "imageCount": 41,
+  "screenshotBytes": 4662655,
+  "qaBytes": 1654401,
+  "newImageBytes": 2049129,
+  "newImageCount": 6,
+  "excludingDependenciesBytes": 19424400,
+  "projectGrowthSinceV4Bytes": 4876284,
+  "runtimeSourceDocsAndImagesBytes": 12645738
+}

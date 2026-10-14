@@ -1,0 +1,41 @@
+[
+  {
+    "language": "en",
+    "selectedId": "centaurus-a",
+    "paused": true,
+    "sceneTime": 198.2387999999746,
+    "camera": [
+      550,
+      320.0000000000001,
+      -649.9999999999999
+    ],
+    "title": "Centaurus A · NGC 5128",
+    "caption": "An ESO optical composite highlighting the stellar halo and central dust lane, not a radio-jet image."
+  },
+  {
+    "language": "ja",
+    "selectedId": "centaurus-a",
+    "paused": true,
+    "sceneTime": 198.2387999999746,
+    "camera": [
+      550,
+      320.0000000000001,
+      -649.9999999999999
+    ],
+    "title": "ケンタウルス座 A · NGC 5128",
+    "caption": "ESOの可視光合成。恒星ハローと中心の塵の帯を強調し、電波ジェットの画像ではありません。"
+  },
+  {
+    "language": "zh",
+    "selectedId": "centaurus-a",
+    "paused": true,
+    "sceneTime": 198.2387999999746,
+    "camera": [
+      550,
+      320.0000000000001,
+      -649.9999999999999
+    ],
+    "title": "半人马座 A · NGC 5128",
+    "caption": "ESO 可见光合成，突出恒星晕和横贯中心的尘埃带；不是射电喷流图像。"
+  }
+]

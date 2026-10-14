@@ -1,0 +1,380 @@
+[
+  {
+    "lang": "zh",
+    "id": "sun",
+    "name": "太阳",
+    "parameters": "平均轨道距离\n0 AU\n平均半径\n695,700 km\n真实自转周期（近似）\n25–36 d\n展示自转 / 公转周期\n360 s / — s",
+    "story": "太阳的核聚变为太阳系提供能量。可见表面的颗粒与黑子反映对流和磁活动。\n\n太阳并非刚性球体：赤道自转约 25 天，极区约 36 天。这里使用均匀、缓慢的自转演示，程序化颗粒和黑子不代表实时活动。",
+    "caption": "SDO 的 450 nm 可见光光球观测帧；暗区是黑子。黄色是展示色调。",
+    "src": "/assets/sun.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "mercury",
+    "name": "水星",
+    "parameters": "平均轨道距离\n0.387 AU\n平均半径\n2,439.7 km\n真实自转周期（近似）\n1407.6 h\n真实公转周期\n87.97 d\n展示自转 / 公转周期\n540 s / 300 s",
+    "story": "水星是距离太阳最近的行星，表面遍布撞击坑。稀薄外逸层几乎无法缓和昼夜温差。\n\n水星处于 3:2 自转—公转共振：两次公转约对应三次自转。为便于观察，本作品分别调整自转、公转速度，没有按同一个时间倍率播放。",
+    "caption": "MESSENGER 增强色彩合成；颜色突出岩石成分差异，并非肉眼所见。",
+    "src": "/assets/mercury.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "venus",
+    "name": "金星",
+    "parameters": "平均轨道距离\n0.723 AU\n平均半径\n6,051.8 km\n真实自转周期（近似）\n5832.5 h\n真实公转周期\n224.7 d\n展示自转 / 公转周期\n780 s / 480 s",
+    "story": "金星被浓密的二氧化碳大气和硫酸云包裹。强烈温室效应使其表面比水星更热。\n\n金星自转缓慢且逆行，一次自转比一次公转更长。场景展示的是云顶示意，雷达图片则让我们看到云层下的地形。",
+    "caption": "Magellan 雷达数据制作的半球图，经过色彩编码；它显示地表而非可见光云顶。",
+    "src": "/assets/venus.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "earth",
+    "name": "地球",
+    "parameters": "平均轨道距离\n1 AU\n平均半径\n6,371 km\n真实自转周期（近似）\n23.934 h\n真实公转周期\n365.256 d\n展示自转 / 公转周期\n180 s / 720 s",
+    "story": "地球拥有液态海洋和支持生命的环境。昼夜面由太阳照明决定，薄蓝色临边示意大气。\n\n地球自转轴约倾斜 23.4°，这是季节变化的重要原因。Blue Marble 是多次观测合成，场景中的云与初始姿态不是当前天气或日期。",
+    "caption": "NASA Blue Marble 多次卫星观测合成，使用球面素材呈现大陆与海洋。",
+    "src": "/assets/earth-blue-marble.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "moon",
+    "name": "月球",
+    "parameters": "平均距地球\n≈ 385,000 km\n平均半径\n1,737.4 km\n真实自转周期（近似）\n655.2 h\n真实公转周期\n27.3 d\n展示自转 / 公转周期\n60 s / 60 s",
+    "story": "月球是地球唯一的天然卫星，明亮高地与较暗月海记录着撞击和火山历史。它的平均地心距离约 38.5 万公里。\n\n月球自转与绕地球公转同步，因此大致同一面始终朝向地球。这里的月地距离和月球尺寸被放大，60 秒示意公转同时产生同步自转。",
+    "caption": "LRO 广角相机拍摄的月球正面马赛克；暗色月海与明亮撞击高地清楚可见。",
+    "src": "/assets/moon.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "mars",
+    "name": "火星",
+    "parameters": "平均轨道距离\n1.524 AU\n平均半径\n3,389.5 km\n真实自转周期（近似）\n24.623 h\n真实公转周期\n686.98 d\n展示自转 / 公转周期\n195 s / 1080 s",
+    "story": "火星是一颗寒冷的岩石行星，氧化铁使表面呈红色。峡谷、火山和古老河道留下过去环境的线索。\n\n火星一天与地球接近，但一年约为地球的 1.88 倍。程序化表面突出红色高地和暗区，不是精确地形模型。",
+    "caption": "Viking 观测制作的全球彩色图；颜色经过处理以展示地表差异。",
+    "src": "/assets/mars.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "jupiter",
+    "name": "木星",
+    "parameters": "平均轨道距离\n5.203 AU\n平均半径\n69,911 km\n真实自转周期（近似）\n9.925 h\n真实公转周期\n4332.6 d\n展示自转 / 公转周期\n90 s / 1800 s",
+    "story": "木星是太阳系最大的行星，主要由氢和氦组成。快速自转组织出交替的云带和巨大的风暴。\n\n大红斑是一场长期持续的风暴。这里的云带和斑纹是示意动画；图片中的木卫二并未作为此场景中的独立三维对象。",
+    "caption": "Hubble 2020 年木星与木卫二观测，表现云带及大红斑；可见光颜色合成。",
+    "src": "/assets/jupiter.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "saturn",
+    "name": "土星",
+    "parameters": "平均轨道距离\n9.537 AU\n平均半径\n58,232 km\n真实自转周期（近似）\n10.7 h\n真实公转周期\n10759.2 d\n展示自转 / 公转周期\n120 s / 2400 s",
+    "story": "土星以明亮的环系著称，环由许多冰和岩石颗粒组成。它和木星一样没有供人站立的固体表面。\n\n土星环位于赤道面，并随倾斜的自转轴一起移动。环宽、颗粒散射和卡西尼缝在此作示意处理。",
+    "caption": "Hubble 的土星可见光肖像，展示环面、卡西尼缝与云带。",
+    "src": "/assets/saturn.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "uranus",
+    "name": "天王星",
+    "parameters": "平均轨道距离\n19.19 AU\n平均半径\n25,362 km\n真实自转周期（近似）\n17.24 h\n真实公转周期\n30688.5 d\n展示自转 / 公转周期\n150 s / 3200 s",
+    "story": "天王星大气中的甲烷吸收红光，使它呈蓝绿色。自转轴约倾斜 98°，几乎侧躺着绕太阳运行。\n\n天王星被归类为冰巨行星，这不表示它有裸露的固体冰表面。本场景保留侧倾轴与柔和云层，省略了微弱环和其他卫星。",
+    "caption": "Voyager 2 从靠近自转极方向拍摄的天王星观测。",
+    "src": "/assets/uranus.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "neptune",
+    "name": "海王星",
+    "parameters": "平均轨道距离\n30.07 AU\n平均半径\n24,622 km\n真实自转周期（近似）\n16.11 h\n真实公转周期\n60182 d\n展示自转 / 公转周期\n160 s / 4000 s",
+    "story": "海王星是八大行星中距太阳最远的一颗。寒冷大气中仍存在快速风和变化的云系。\n\n海王星绕太阳一周约需 165 年。蓝色场景是可见光风格示意，Webb 红外图片采用波段映射，因此外观不同。",
+    "caption": "Webb NIRCam 红外多波段合成，突出明亮云和环；颜色不是肉眼颜色，环未在三维场景中绘制。",
+    "src": "/assets/neptune.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "large-magellanic-cloud",
+    "name": "大麦哲伦云",
+    "parameters": "距太阳系\n163,000 光年\n所属区域\n银河系外\n近似银经 / 银纬\n280.47° / -32.89°",
+    "story": "大麦哲伦云是银河系的近邻矮星系，可见中央棒状恒星分布与活跃的恒星形成。它与小麦哲伦云及银河系的相互作用塑造了周围气体。\n\n哈勃研究发现，热气体日冕帮助这对矮星系保留形成新恒星的气体。它属于银河系外，不能当作银河旋臂上的星云。",
+    "caption": "大麦哲伦云宽视场可见光观测，呈现棒状恒星结构与恒星形成区域。",
+    "src": "/assets/large-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "small-magellanic-cloud",
+    "name": "小麦哲伦云",
+    "parameters": "距太阳系\n200,000 光年\n所属区域\n银河系外\n近似银经 / 银纬\n302.8° / -44.3°",
+    "story": "小麦哲伦云距离约 20 万光年，是一颗形态不规则的近邻矮星系。它的恒星与气体受到大麦哲伦云和银河系相互作用的影响。\n\nVISTA 的红外宽视场能够穿透部分尘埃，展示较老的恒星分布。照片右侧明亮的杜鹃座 47 球状星团属于银河系前景，并非小麦哲伦云的一部分。",
+    "caption": "VISTA 红外波段合成；颜色经映射，较老恒星更加清晰。杜鹃座 47 是前景星团。",
+    "src": "/assets/small-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "andromeda",
+    "name": "仙女座星系 M31",
+    "parameters": "距太阳系\n2,500,000 光年\n所属区域\n银河系外\n近似银经 / 银纬\n121.17° / -21.57°",
+    "story": "仙女座星系距离约 250 万光年，是本星系群中的大型螺旋星系。倾斜的盘面展示旋臂、尘埃与恒星形成区域。\n\n这里使用 GALEX 紫外观测：蓝色突出年轻、炽热恒星，它们组成宽广的恒星形成环。波段颜色不等于人眼从宇宙飞船看到的颜色。",
+    "caption": "GALEX 远紫外与近紫外合成；蓝色突出年轻恒星，较暖色调代表不同紫外辐射比例。",
+    "src": "/assets/andromeda.jpg"
+  },
+  {
+    "lang": "zh",
+    "id": "centaurus-a",
+    "name": "半人马座 A · NGC 5128",
+    "parameters": "距太阳系\n12,000,000 光年\n所属区域\n银河系外\n近似银经 / 银纬\n309.52° / 19.42°",
+    "story": "半人马座 A 距离约 1200 万光年，暗尘埃带横贯明亮的椭圆恒星晕。它被认为经历过星系并合，中心活动与超大质量黑洞有关。\n\n它是银河系外的独立星系，与距太阳约 4.4 光年的半人马座 α 恒星系统完全不同。图片展示光学尘埃带；更长的喷流在射电和 X 射线观测中更加明显。",
+    "caption": "ESO 可见光合成，突出恒星晕和横贯中心的尘埃带；不是射电喷流图像。",
+    "src": "/assets/centaurus-a.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "sun",
+    "name": "Sun",
+    "parameters": "Mean orbital distance\n0 AU\nMean radius\n695,700 km\nReal rotation period (approx.)\n25–36 d\nDisplay spin / orbit period\n360 s / — s",
+    "story": "Nuclear fusion powers the Sun and the Solar System. Granulation and sunspots on its visible surface trace convection and magnetic activity.\n\nThe Sun rotates differentially: about 25 days at the equator and 36 near the poles. This scene uses slow uniform rotation; procedural granules and spots are not live activity.",
+    "caption": "An SDO photospheric frame at 450 nm visible light; dark regions are sunspots. Yellow is a display tint.",
+    "src": "/assets/sun.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "mercury",
+    "name": "Mercury",
+    "parameters": "Mean orbital distance\n0.387 AU\nMean radius\n2,439.7 km\nReal rotation period (approx.)\n1407.6 h\nReal orbital period\n87.97 d\nDisplay spin / orbit period\n540 s / 300 s",
+    "story": "Mercury is the closest planet to the Sun and has a heavily cratered surface. Its tenuous exosphere barely moderates extreme day–night temperatures.\n\nMercury has a 3:2 spin–orbit resonance: roughly three rotations per two orbits. Spin and orbit speeds here are independently adjusted for viewing, rather than sharing one time multiplier.",
+    "caption": "An enhanced-color MESSENGER composite. Colors highlight compositional differences rather than naked-eye appearance.",
+    "src": "/assets/mercury.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "venus",
+    "name": "Venus",
+    "parameters": "Mean orbital distance\n0.723 AU\nMean radius\n6,051.8 km\nReal rotation period (approx.)\n5832.5 h\nReal orbital period\n224.7 d\nDisplay spin / orbit period\n780 s / 480 s",
+    "story": "Venus is enveloped in dense carbon dioxide air and sulfuric-acid clouds. An intense greenhouse effect makes its surface hotter than Mercury’s.\n\nVenus rotates slowly and retrograde; one rotation takes longer than one orbit. The scene illustrates cloud tops, while radar imaging reveals terrain beneath them.",
+    "caption": "A color-coded hemispheric view assembled from Magellan radar data. It shows terrain, not visible-light cloud tops.",
+    "src": "/assets/venus.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "earth",
+    "name": "Earth",
+    "parameters": "Mean orbital distance\n1 AU\nMean radius\n6,371 km\nReal rotation period (approx.)\n23.934 h\nReal orbital period\n365.256 d\nDisplay spin / orbit period\n180 s / 720 s",
+    "story": "Earth has liquid oceans and an environment supporting life. Sunlight defines its day and night sides; a thin blue limb illustrates the atmosphere.\n\nEarth’s axis tilts about 23.4°, a key cause of seasons. Blue Marble combines many observations; clouds and initial orientation are not current weather or date.",
+    "caption": "NASA Blue Marble combines satellite observations; its spherical map supplies continents and oceans.",
+    "src": "/assets/earth-blue-marble.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "moon",
+    "name": "Moon",
+    "parameters": "Mean distance from Earth\n≈ 385,000 km\nMean radius\n1,737.4 km\nReal rotation period (approx.)\n655.2 h\nReal orbital period\n27.3 d\nDisplay spin / orbit period\n60 s / 60 s",
+    "story": "The Moon is Earth’s only natural satellite. Bright highlands and dark maria preserve impact and volcanic history. Its mean distance from Earth is about 385,000 km.\n\nSynchronous rotation keeps approximately the same lunar face toward Earth. Lunar size and separation are enlarged here; a 60-second illustrative orbit also produces synchronous rotation.",
+    "caption": "A near-side mosaic from the LRO Wide Angle Camera, showing dark maria and bright cratered highlands.",
+    "src": "/assets/moon.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "mars",
+    "name": "Mars",
+    "parameters": "Mean orbital distance\n1.524 AU\nMean radius\n3,389.5 km\nReal rotation period (approx.)\n24.623 h\nReal orbital period\n686.98 d\nDisplay spin / orbit period\n195 s / 1080 s",
+    "story": "Mars is a cold rocky planet colored red by iron oxides. Canyons, volcanoes and ancient channels offer clues to past environments.\n\nA Martian day is close to Earth’s, but its year is about 1.88 Earth years. The procedural surface emphasizes red terrain and dark regions, not precise topography.",
+    "caption": "A global color view assembled from Viking observations; processed colors reveal surface differences.",
+    "src": "/assets/mars.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "jupiter",
+    "name": "Jupiter",
+    "parameters": "Mean orbital distance\n5.203 AU\nMean radius\n69,911 km\nReal rotation period (approx.)\n9.925 h\nReal orbital period\n4332.6 d\nDisplay spin / orbit period\n90 s / 1800 s",
+    "story": "Jupiter is the Solar System’s largest planet, composed mainly of hydrogen and helium. Rapid rotation organizes alternating cloud bands and giant storms.\n\nThe Great Red Spot is a long-lived storm. Cloud bands and markings here are illustrative; Europa visible in the reference image is not a separate 3-D object in this scene.",
+    "caption": "Hubble’s 2020 visible-light composite of Jupiter and Europa, showing cloud bands and the Great Red Spot.",
+    "src": "/assets/jupiter.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "saturn",
+    "name": "Saturn",
+    "parameters": "Mean orbital distance\n9.537 AU\nMean radius\n58,232 km\nReal rotation period (approx.)\n10.7 h\nReal orbital period\n10759.2 d\nDisplay spin / orbit period\n120 s / 2400 s",
+    "story": "Saturn is known for bright rings made of countless ice and rock particles. Like Jupiter, it has no solid surface to stand on.\n\nSaturn’s rings lie in its equatorial plane and move with its tilted axis. Ring widths, particle scattering and the Cassini Division are illustrated approximately.",
+    "caption": "A Hubble visible-light portrait showing Saturn’s rings, Cassini Division and cloud bands.",
+    "src": "/assets/saturn.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "uranus",
+    "name": "Uranus",
+    "parameters": "Mean orbital distance\n19.19 AU\nMean radius\n25,362 km\nReal rotation period (approx.)\n17.24 h\nReal orbital period\n30688.5 d\nDisplay spin / orbit period\n150 s / 3200 s",
+    "story": "Methane absorbs red light in Uranus’s atmosphere, giving it a blue-green appearance. Its axis tilts about 98°, so it nearly rolls around the Sun on its side.\n\nAn ice giant is not a planet with an exposed solid ice surface. This scene retains the sideways axis and subtle clouds, omitting faint rings and other moons.",
+    "caption": "Voyager 2’s view of Uranus toward its rotational pole.",
+    "src": "/assets/uranus.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "neptune",
+    "name": "Neptune",
+    "parameters": "Mean orbital distance\n30.07 AU\nMean radius\n24,622 km\nReal rotation period (approx.)\n16.11 h\nReal orbital period\n60182 d\nDisplay spin / orbit period\n160 s / 4000 s",
+    "story": "Neptune is the farthest of the eight planets from the Sun. Its cold atmosphere still supports fast winds and changing clouds.\n\nNeptune takes about 165 years to orbit the Sun. The blue scene is a visible-light-style illustration; Webb’s mapped infrared bands produce a different appearance.",
+    "caption": "A Webb NIRCam infrared composite highlighting clouds and rings. Colors are mapped, not naked-eye colors; rings are omitted from the 3-D scene.",
+    "src": "/assets/neptune.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "large-magellanic-cloud",
+    "name": "Large Magellanic Cloud",
+    "parameters": "From the Solar System\n163,000 ly\nRegion\nExtragalactic\nApproximate Galactic l / b\n280.47° / -32.89°",
+    "story": "The Large Magellanic Cloud is a nearby dwarf galaxy with a stellar bar and active star formation. Interactions with the Small Cloud and Milky Way shape surrounding gas.\n\nHubble studies find a hot gaseous corona helping the pair retain star-forming gas. This is an external galaxy, not a nebula on a Milky Way arm.",
+    "caption": "A wide-field optical observation of the Large Magellanic Cloud showing its stellar bar and star-forming regions.",
+    "src": "/assets/large-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "small-magellanic-cloud",
+    "name": "Small Magellanic Cloud",
+    "parameters": "From the Solar System\n200,000 ly\nRegion\nExtragalactic\nApproximate Galactic l / b\n302.8° / -44.3°",
+    "story": "About 200,000 light-years away, the Small Magellanic Cloud is an irregular dwarf galaxy. Its stars and gas are affected by interactions with the Large Cloud and Milky Way.\n\nVISTA’s infrared panorama penetrates some dust and reveals older stars. Bright globular cluster 47 Tucanae on the right is a Milky Way foreground object, not part of the Small Cloud.",
+    "caption": "A mapped-color VISTA infrared composite revealing older stars. 47 Tucanae is a foreground cluster.",
+    "src": "/assets/small-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "andromeda",
+    "name": "Andromeda Galaxy · M31",
+    "parameters": "From the Solar System\n2,500,000 ly\nRegion\nExtragalactic\nApproximate Galactic l / b\n121.17° / -21.57°",
+    "story": "About 2.5 million light-years away, Andromeda is a large spiral galaxy in the Local Group. Its inclined disk reveals arms, dust and star-forming regions.\n\nThis view uses GALEX ultraviolet observations: blue highlights hot young stars in a broad star-forming ring. Mapped bands are not the colors an unaided traveler would see.",
+    "caption": "A GALEX far- and near-ultraviolet composite. Blue emphasizes young stars; warmer tones reflect different UV ratios.",
+    "src": "/assets/andromeda.jpg"
+  },
+  {
+    "lang": "en",
+    "id": "centaurus-a",
+    "name": "Centaurus A · NGC 5128",
+    "parameters": "From the Solar System\n12,000,000 ly\nRegion\nExtragalactic\nApproximate Galactic l / b\n309.52° / 19.42°",
+    "story": "About 12 million light-years away, Centaurus A has a dark dust lane across a bright elliptical stellar halo. A past merger and a central supermassive black hole help explain its activity.\n\nIt is an external galaxy, entirely distinct from Alpha Centauri, about 4.4 light-years from the Sun. This optical image shows the dust lane; longer jets are clearer in radio and X-rays.",
+    "caption": "An ESO optical composite highlighting the stellar halo and central dust lane, not a radio-jet image.",
+    "src": "/assets/centaurus-a.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "sun",
+    "name": "太陽",
+    "parameters": "平均軌道距離\n0 AU\n平均半径\n695,700 km\n実際の自転周期（概数）\n25–36 d\n表示上の自転 / 公転周期\n360 s / — s",
+    "story": "太陽の核融合が太陽系へエネルギーを供給します。可視表面の粒状斑と黒点は対流と磁気活動を示します。\n\n太陽は差動回転し、赤道で約25日、極域で約36日です。この場面ではゆっくりした一様回転を使い、粒状斑と黒点は現在の活動を示しません。",
+    "caption": "SDOによる450 nm可視光の光球画像。暗部は黒点です。黄色は表示上の色調です。",
+    "src": "/assets/sun.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "mercury",
+    "name": "水星",
+    "parameters": "平均軌道距離\n0.387 AU\n平均半径\n2,439.7 km\n実際の自転周期（概数）\n1407.6 h\n実際の公転周期\n87.97 d\n表示上の自転 / 公転周期\n540 s / 300 s",
+    "story": "水星は太陽に最も近く、表面には多数の衝突クレーターがあります。希薄な外気圏では昼夜の大きな温度差を和らげられません。\n\n水星は自転と公転が3:2で共鳴し、約2公転で3自転します。ここでは観察のために自転・公転速度を個別に調整しています。",
+    "caption": "MESSENGERの強調色合成。岩石の組成の違いを表し、肉眼の色ではありません。",
+    "src": "/assets/mercury.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "venus",
+    "name": "金星",
+    "parameters": "平均軌道距離\n0.723 AU\n平均半径\n6,051.8 km\n実際の自転周期（概数）\n5832.5 h\n実際の公転周期\n224.7 d\n表示上の自転 / 公転周期\n780 s / 480 s",
+    "story": "金星は濃い二酸化炭素大気と硫酸の雲に包まれています。強い温室効果で表面は水星より高温です。\n\n金星の自転は遅い逆行で、自転周期は公転周期より長くなります。場面は雲頂の模式表現で、レーダー画像は雲の下の地形を示します。",
+    "caption": "Magellanのレーダーデータによる色付けされた半球図。可視光の雲頂ではなく地形を示します。",
+    "src": "/assets/venus.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "earth",
+    "name": "地球",
+    "parameters": "平均軌道距離\n1 AU\n平均半径\n6,371 km\n実際の自転周期（概数）\n23.934 h\n実際の公転周期\n365.256 d\n表示上の自転 / 公転周期\n180 s / 720 s",
+    "story": "地球には液体の海と生命を支える環境があります。太陽光が昼夜を作り、薄い青い縁は大気を表します。\n\n地球の自転軸は約23.4°傾き、季節を生む主な原因です。Blue Marbleは複数の観測の合成で、雲や初期姿勢は現在の天候や日時ではありません。",
+    "caption": "NASA Blue Marbleは衛星観測の合成で、球面地図が大陸と海を表します。",
+    "src": "/assets/earth-blue-marble.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "moon",
+    "name": "月",
+    "parameters": "地球からの平均距離\n≈ 385,000 km\n平均半径\n1,737.4 km\n実際の自転周期（概数）\n655.2 h\n実際の公転周期\n27.3 d\n表示上の自転 / 公転周期\n60 s / 60 s",
+    "story": "月は地球唯一の自然衛星です。明るい高地と暗い月の海には衝突と火山活動の歴史が残り、地球からの平均距離は約38.5万kmです。\n\n月の自転と地球周回は同期しており、ほぼ同じ面が常に地球を向きます。月の大きさと間隔を拡大し、60秒の模式公転で同期自転も表します。",
+    "caption": "LRO広角カメラによる月の表側のモザイク。暗い月の海と明るいクレーター高地が見えます。",
+    "src": "/assets/moon.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "mars",
+    "name": "火星",
+    "parameters": "平均軌道距離\n1.524 AU\n平均半径\n3,389.5 km\n実際の自転周期（概数）\n24.623 h\n実際の公転周期\n686.98 d\n表示上の自転 / 公転周期\n195 s / 1080 s",
+    "story": "火星は酸化鉄で赤く見える冷たい岩石惑星です。峡谷、火山、古い流路は過去の環境の手掛かりです。\n\n火星の一日は地球に近い一方、一年は地球の約1.88倍です。手続き的に生成した表面は赤い地形と暗部を強調し、正確な地形モデルではありません。",
+    "caption": "Viking観測から作られた全球カラー画像。地表の違いが分かるよう色を処理しています。",
+    "src": "/assets/mars.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "jupiter",
+    "name": "木星",
+    "parameters": "平均軌道距離\n5.203 AU\n平均半径\n69,911 km\n実際の自転周期（概数）\n9.925 h\n実際の公転周期\n4332.6 d\n表示上の自転 / 公転周期\n90 s / 1800 s",
+    "story": "木星は太陽系最大の惑星で、主に水素とヘリウムからなります。速い自転が交互の雲帯と巨大な嵐を作ります。\n\n大赤斑は長く続く嵐です。雲帯と模様は模式表現で、資料画像に写るエウロパはこの場面の独立した3D天体ではありません。",
+    "caption": "Hubbleの2020年の木星とエウロパの可視光合成。雲帯と大赤斑が見えます。",
+    "src": "/assets/jupiter.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "saturn",
+    "name": "土星",
+    "parameters": "平均軌道距離\n9.537 AU\n平均半径\n58,232 km\n実際の自転周期（概数）\n10.7 h\n実際の公転周期\n10759.2 d\n表示上の自転 / 公転周期\n120 s / 2400 s",
+    "story": "土星は無数の氷と岩石の粒からなる明るい環で知られます。木星と同様、人が立てる固体表面はありません。\n\n土星の環は赤道面にあり、傾いた自転軸とともに移動します。環の幅、粒子の散乱、カッシーニの間隙は近似表現です。",
+    "caption": "Hubbleの可視光写真。環、カッシーニの間隙、雲帯を示します。",
+    "src": "/assets/saturn.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "uranus",
+    "name": "天王星",
+    "parameters": "平均軌道距離\n19.19 AU\n平均半径\n25,362 km\n実際の自転周期（概数）\n17.24 h\n実際の公転周期\n30688.5 d\n表示上の自転 / 公転周期\n150 s / 3200 s",
+    "story": "天王星の大気中のメタンが赤い光を吸収し、青緑色に見えます。自転軸は約98°傾き、ほぼ横倒しで太陽を周回します。\n\n巨大氷惑星という分類は、露出した固体の氷の表面があるという意味ではありません。横向きの軸と淡い雲を表し、暗い環と他の衛星は省略します。",
+    "caption": "Voyager 2が自転極の方向から捉えた天王星。",
+    "src": "/assets/uranus.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "neptune",
+    "name": "海王星",
+    "parameters": "平均軌道距離\n30.07 AU\n平均半径\n24,622 km\n実際の自転周期（概数）\n16.11 h\n実際の公転周期\n60182 d\n表示上の自転 / 公転周期\n160 s / 4000 s",
+    "story": "海王星は八惑星の中で太陽から最も遠い惑星です。冷たい大気にも高速の風と変化する雲があります。\n\n海王星の公転には約165年かかります。青い場面は可視光風の模式表現で、Webbの赤外線画像は波長を色に割り当てるため見え方が異なります。",
+    "caption": "Webb NIRCamの赤外線合成で雲と環を強調しています。肉眼の色ではなく、環は3D場面では省略しています。",
+    "src": "/assets/neptune.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "large-magellanic-cloud",
+    "name": "大マゼラン雲",
+    "parameters": "太陽系からの距離\n163,000 光年\n所属領域\n銀河系外\n概略の銀経 / 銀緯\n280.47° / -32.89°",
+    "story": "大マゼラン雲は棒状の恒星分布と活発な星形成を持つ近隣の矮小銀河です。小マゼラン雲や銀河系との相互作用が周囲のガスを形作ります。\n\nHubbleの研究は、この二つの矮小銀河が星形成用ガスを保つ助けとなる高温ガスのコロナを示します。銀河系外の銀河であり、銀河系の腕の星雲ではありません。",
+    "caption": "大マゼラン雲の広視野可視光観測。棒状の恒星構造と星形成領域を示します。",
+    "src": "/assets/large-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "small-magellanic-cloud",
+    "name": "小マゼラン雲",
+    "parameters": "太陽系からの距離\n200,000 光年\n所属領域\n銀河系外\n概略の銀経 / 銀緯\n302.8° / -44.3°",
+    "story": "約20万光年先の小マゼラン雲は不規則な形の近隣の矮小銀河です。その恒星とガスは大マゼラン雲・銀河系との相互作用を受けます。\n\nVISTAの赤外線広視野画像は塵の一部を透過し、古い恒星分布を示します。右側の明るい球状星団47 Tucanaeは銀河系の前景天体で、小マゼラン雲の一部ではありません。",
+    "caption": "色を割り当てたVISTA赤外線合成で、古い恒星がよく見えます。47 Tucanaeは前景の星団です。",
+    "src": "/assets/small-magellanic-cloud.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "andromeda",
+    "name": "アンドロメダ銀河 M31",
+    "parameters": "太陽系からの距離\n2,500,000 光年\n所属領域\n銀河系外\n概略の銀経 / 銀緯\n121.17° / -21.57°",
+    "story": "約250万光年先のアンドロメダ銀河は局所銀河群の大きな渦巻銀河です。傾いた円盤には腕、塵、星形成領域が見えます。\n\nここではGALEXの紫外線観測を使い、青が広い星形成リングの若く高温の恒星を示します。波長の色は旅行者の肉眼の色ではありません。",
+    "caption": "GALEXの遠紫外線・近紫外線合成。青は若い恒星を強調し、暖色は紫外線の比率の違いを表します。",
+    "src": "/assets/andromeda.jpg"
+  },
+  {
+    "lang": "ja",
+    "id": "centaurus-a",
+    "name": "ケンタウルス座 A · NGC 5128",
+    "parameters": "太陽系からの距離\n12,000,000 光年\n所属領域\n銀河系外\n概略の銀経 / 銀緯\n309.52° / 19.42°",
+    "story": "約1200万光年先のケンタウルス座Aには、明るい楕円形の恒星ハローを横切る暗い塵の帯があります。過去の銀河合体と中心の超大質量ブラックホールが活動に関わります。\n\nこれは銀河系外の銀河で、太陽から約4.4光年のケンタウルス座α恒星系とは全く別です。光学画像は塵の帯を示し、長いジェットは電波やX線でより明瞭です。",
+    "caption": "ESOの可視光合成。恒星ハローと中心の塵の帯を強調し、電波ジェットの画像ではありません。",
+    "src": "/assets/centaurus-a.jpg"
+  }
+]

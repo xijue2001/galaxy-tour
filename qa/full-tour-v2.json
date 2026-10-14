@@ -1,0 +1,149 @@
+{
+  "checkedAt": "2026-10-10T07:22:54.426Z",
+  "version": "2.0",
+  "seed": 731927,
+  "threeVersion": "180",
+  "graphics": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "language": "zh",
+  "quality": "medium",
+  "mode": "explore",
+  "elapsed": 160,
+  "playing": false,
+  "phase": "pullback",
+  "destinationId": "sagittarius-a",
+  "holdRemaining": 0,
+  "localWeight": 0,
+  "selectedId": null,
+  "sidebarOpen": false,
+  "imageId": null,
+  "imageState": "idle",
+  "starCount": 140000,
+  "galaxyStarCount": 140000,
+  "localCounts": {
+    "starCount": 1980,
+    "dustCount": 0,
+    "gasCount": 0,
+    "stellarMeshCount": 0
+  },
+  "dustCount": 2800,
+  "populations": {
+    "bulge": 8999,
+    "bar": 23320,
+    "thinDisc": 43572,
+    "thickDisc": 5991,
+    "arms": 37532,
+    "youngClusters": 14322,
+    "halo": 2764
+  },
+  "armCounts": {
+    "scutum-centaurus": 17567,
+    "perseus": 14827,
+    "sagittarius": 6696,
+    "norma": 4772,
+    "local": 4301,
+    "outer-fragment": 3691
+  },
+  "positions": {
+    "solar-system": [
+      32.8,
+      0.0832,
+      0
+    ],
+    "alpha-centauri": [
+      32.79616179190134,
+      0.08313795226224348,
+      -0.0037399726171664415
+    ],
+    "pleiades": [
+      33.285063969228126,
+      -0.1349285708072692,
+      0.1167875893866778
+    ],
+    "orion-nebula": [
+      34.16587199857899,
+      -0.4662456724945471,
+      -0.7574112941920697
+    ],
+    "crab-nebula": [
+      40.70601508707439,
+      -0.720072408539564,
+      -0.6298120393540024
+    ],
+    "sagittarius-a": [
+      0,
+      0,
+      0
+    ]
+  },
+  "model": "MW-reconstruction-2026.2",
+  "viewport": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+  },
+  "fps": 164.98927569707809,
+  "frameMean": 6.061000000000059,
+  "p95": 6.2000000000116415,
+  "drawCalls": 20,
+  "sampling": false,
+  "benchmark": {
+    "frames": 26327,
+    "milliseconds": 159719.69999999998,
+    "startElapsed": 0,
+    "seeks": 0,
+    "pauses": 0,
+    "completed": true,
+    "uninterrupted": true
+  },
+  "phaseStats": [
+    {
+      "frames": 3579,
+      "milliseconds": 21716.7,
+      "worst": 18.299999999999272
+    },
+    {
+      "frames": 3960,
+      "milliseconds": 24001.6,
+      "worst": 6.400000000001455
+    },
+    {
+      "frames": 3960,
+      "milliseconds": 24001.5,
+      "worst": 6.399999999994179
+    },
+    {
+      "frames": 3959,
+      "milliseconds": 23995.699999999997,
+      "worst": 7.600000000005821
+    },
+    {
+      "frames": 3954,
+      "milliseconds": 24001.5,
+      "worst": 24.19999999999709
+    },
+    {
+      "frames": 3946,
+      "milliseconds": 24001.500000000015,
+      "worst": 36.39999999999418
+    },
+    {
+      "frames": 2970,
+      "milliseconds": 18007.399999999994,
+      "worst": 12.200000000011642
+    }
+  ],
+  "lastInteraction": null,
+  "errors": [],
+  "contextLost": false,
+  "camera": [
+    111.99999999972675,
+    73.99999999981951,
+    81.99999999980008
+  ],
+  "localCamera": [
+    2.3,
+    2.3,
+    17
+  ],
+  "console": []
+}

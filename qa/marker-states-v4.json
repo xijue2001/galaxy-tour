@@ -1,0 +1,9 @@
+{
+  "animation": "none",
+  "buttonWidth": 28,
+  "focus": "alpha-centauri",
+  "focusLabel": "1",
+  "focusRest": "0.91",
+  "otherRest": "0.35",
+  "selectedRest": "0.82"
+}

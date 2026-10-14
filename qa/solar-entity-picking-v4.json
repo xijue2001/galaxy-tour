@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sun",
+    "name": "太阳",
+    "sidebar": true
+  },
+  {
+    "id": "mercury",
+    "name": "水星",
+    "sidebar": true
+  },
+  {
+    "id": "venus",
+    "name": "金星",
+    "sidebar": true
+  },
+  {
+    "id": "earth",
+    "name": "地球",
+    "sidebar": true
+  },
+  {
+    "id": "moon",
+    "name": "月球",
+    "sidebar": true
+  },
+  {
+    "id": "mars",
+    "name": "火星",
+    "sidebar": true
+  },
+  {
+    "id": "jupiter",
+    "name": "木星",
+    "sidebar": true
+  },
+  {
+    "id": "saturn",
+    "name": "土星",
+    "sidebar": true
+  },
+  {
+    "id": "uranus",
+    "name": "天王星",
+    "sidebar": true
+  },
+  {
+    "id": "neptune",
+    "name": "海王星",
+    "sidebar": true
+  }
+]

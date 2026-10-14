@@ -1,0 +1,125 @@
+[
+  {
+    "id": "mercury",
+    "page": "https://images.nasa.gov/details/PIA16853",
+    "resource": "https://images-assets.nasa.gov/image/PIA16853/PIA16853~thumb.jpg",
+    "title": "Colors of the Innermost Planet: View 1",
+    "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "nasaId": "PIA16853",
+    "bytes": 28534,
+    "src": "/assets/mercury.jpg"
+  },
+  {
+    "id": "venus",
+    "page": "https://images.nasa.gov/details/PIA00159",
+    "resource": "https://images-assets.nasa.gov/image/PIA00159/PIA00159~thumb.jpg",
+    "title": "Hemispheric View of Venus Centered at 180° East Longitude",
+    "credit": "NASA/JPL/USGS",
+    "nasaId": "PIA00159",
+    "bytes": 99035,
+    "src": "/assets/venus.jpg"
+  },
+  {
+    "id": "mars",
+    "page": "https://images.nasa.gov/details/PIA00407",
+    "resource": "https://images-assets.nasa.gov/image/PIA00407/PIA00407~thumb.jpg",
+    "title": "Global Color Views of Mars",
+    "credit": "NASA/JPL/USGS",
+    "nasaId": "PIA00407",
+    "bytes": 51420,
+    "src": "/assets/mars.jpg"
+  },
+  {
+    "id": "moon",
+    "page": "https://images.nasa.gov/details/PIA14011",
+    "resource": "https://images-assets.nasa.gov/image/PIA14011/PIA14011~thumb.jpg",
+    "title": "Nearside Spectacular",
+    "credit": "NASA/GSFC/Arizona State University",
+    "nasaId": "PIA14011",
+    "bytes": 81890,
+    "src": "/assets/moon.jpg"
+  },
+  {
+    "id": "uranus",
+    "page": "https://images.nasa.gov/details/PIA01360",
+    "resource": "https://images-assets.nasa.gov/image/PIA01360/PIA01360~thumb.jpg",
+    "title": "Uranus, Toward the Planet Pole of Rotation",
+    "credit": "NASA/JPL",
+    "nasaId": "PIA01360",
+    "bytes": 8416,
+    "src": "/assets/uranus.jpg"
+  },
+  {
+    "id": "andromeda",
+    "page": "https://images.nasa.gov/details/PIA15416",
+    "resource": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~thumb.jpg",
+    "title": "Andromeda",
+    "credit": "NASA/JPL-Caltech",
+    "nasaId": "PIA15416",
+    "bytes": 54448,
+    "src": "/assets/andromeda.jpg"
+  },
+  {
+    "id": "large-magellanic-cloud",
+    "page": "https://noirlab.edu/public/images/noao-2123/",
+    "resource": "https://storage.noirlab.edu/media/archives/images/screen/noao-2123.jpg",
+    "title": "Large Magellanic Cloud",
+    "credit": "NOIRLab/AURA/NSF",
+    "bytes": 342018,
+    "src": "/assets/large-magellanic-cloud.jpg"
+  },
+  {
+    "id": "small-magellanic-cloud",
+    "page": "https://www.eso.org/public/images/eso1714a/",
+    "resource": "https://cdn.eso.org/images/screen/eso1714a.jpg",
+    "title": "VISTA’s view of the Small Magellanic Cloud",
+    "credit": "ESO/VISTA VMC",
+    "bytes": 536770,
+    "src": "/assets/small-magellanic-cloud.jpg"
+  },
+  {
+    "id": "centaurus-a",
+    "page": "https://www.eso.org/public/images/eso1221a/",
+    "resource": "https://cdn.eso.org/images/screen/eso1221a.jpg",
+    "title": "A deep look at the strange galaxy Centaurus A",
+    "credit": "ESO",
+    "bytes": 343027,
+    "src": "/assets/centaurus-a.jpg"
+  },
+  {
+    "id": "jupiter",
+    "page": "https://esahubble.org/images/heic2017a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/heic2017a.jpg",
+    "title": "Hubble's View of Jupiter and Europa in August 2020",
+    "credit": "NASA, ESA, A. Simon (Goddard Space Flight Center), and M. H. Wong (University of California, Berkeley) and the OPAL team.",
+    "bytes": 138013,
+    "src": "/assets/jupiter.jpg"
+  },
+  {
+    "id": "saturn",
+    "page": "https://esahubble.org/images/heic1917a/",
+    "resource": "https://cdn.esahubble.org/archives/images/screen/heic1917a.jpg",
+    "title": "Latest Saturn Portrait",
+    "credit": "NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)",
+    "bytes": 69048,
+    "src": "/assets/saturn.jpg"
+  },
+  {
+    "id": "neptune",
+    "page": "https://esawebb.org/images/weic2214a/",
+    "resource": "https://cdn.esawebb.org/archives/images/screen/weic2214a.jpg",
+    "title": "Neptune Close-Up (NIRCam Image)",
+    "credit": "NASA, ESA, CSA, and STScI",
+    "bytes": 233841,
+    "src": "/assets/neptune.jpg"
+  },
+  {
+    "id": "sun",
+    "page": "https://svs.gsfc.nasa.gov/3987/",
+    "resource": "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox_stand.HD1080i.00100.jpg",
+    "title": "The Active Sun from SDO: 4500 Ångstroms",
+    "credit": "NASA/Goddard Space Flight Center Scientific Visualization Studio, the SDO Science Team, and the Virtual Solar Observatory",
+    "bytes": 103944,
+    "src": "/assets/sun.jpg"
+  }
+]

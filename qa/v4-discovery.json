@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sun",
+    "page": "https://svs.gsfc.nasa.gov/3987/",
+    "title": "The Active Sun from SDO: 4500 Ångstroms",
+    "credit": "",
+    "resources": [
+      "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox_stand.HD1080i.00100.jpg",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox_stand.HD1080i.00100_web.png",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox_stand.HD1080i.00100_thm.png",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox.01000.jpg",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a003900/a003987/SDOAIA4500A_Jewelbox.01000_web.png"
+    ]
+  },
+  {
+    "id": "lmc",
+    "page": "https://www.eso.org/public/news/eso1021/",
+    "title": "A Cosmic Zoo in the Large Magellanic Cloud",
+    "credit": "Credit: ESO)",
+    "resources": [
+      "https://cdn.eso.org/images/screen/eso1021a.jpg",
+      "https://cdn.eso.org/images/screen/eso1021b.jpg",
+      "https://cdn.eso.org/images/screen/eso1021c.jpg",
+      "https://cdn.eso.org/images/screen/eso1021d.jpg"
+    ],
+    "lmcImages": [
+      "/public/images/eso1021a/",
+      "/public/images/eso1021a/",
+      "/public/images/eso1021b/",
+      "/public/images/eso1021b/",
+      "/public/images/eso1021c/",
+      "/public/images/eso1021c/",
+      "/public/images/eso1021d/",
+      "/public/images/eso1021d/"
+    ]
+  },
+  {
+    "id": "smc",
+    "page": "https://www.eso.org/public/images/eso1714a/",
+    "title": "VISTA’s view of the Small Magellanic Cloud",
+    "credit": "Credit: ESO/VISTA VMC",
+    "resources": [
+      "https://cdn.eso.org/images/screen/eso1714a.jpg",
+      "http://www.worldwidetelescope.org/wwtweb/ShowImage.aspx?scale=16.6111045414&amp;name=Small+Magellanic+Cloud&amp;imageurl=https%3A%2F%2Fwww.eso.org%2Fpublic%2Farchives%2Fimages%2Fscreen%2Feso1714a.jpg&amp;credits=&amp;creditsUrl=https%3A%2F%2Fwww.eso.org%2Fpublic%2Fimages%2Feso1714a%2F&amp;ra=13.7631652021&amp;y=566.157832635&amp;x=640.0&amp;rotation=178.8&amp;dec=-72.9640481752&amp;thumb=https%3A%2F%2Fwww.eso.org%2Fpublic%2Farchives%2Fimages%2Fthumbs%2Feso1714a.jpg"
+    ]
+  },
+  {
+    "id": "centaurus-a",
+    "page": "https://www.eso.org/public/images/eso1221a/",
+    "title": "A deep look at the strange galaxy Centaurus A",
+    "credit": "Credit: ESO",
+    "resources": [
+      "https://cdn.eso.org/images/screen/eso1221a.jpg",
+      "http://www.worldwidetelescope.org/wwtweb/ShowImage.aspx?scale=1.58781788333&amp;name=NGC+5128&amp;imageurl=https%3A%2F%2Fwww.eso.org%2Fpublic%2Farchives%2Fimages%2Fscreen%2Feso1221a.jpg&amp;credits=&amp;creditsUrl=https%3A%2F%2Fwww.eso.org%2Fpublic%2Fimages%2Feso1221a%2F&amp;ra=201.36542&amp;y=583.88407542&amp;x=675.810817863&amp;rotation=179.982928989&amp;dec=-43.019319&amp;thumb=https%3A%2F%2Fwww.eso.org%2Fpublic%2Farchives%2Fimages%2Fthumbs%2Feso1221a.jpg"
+    ]
+  },
+  {
+    "id": "jupiter",
+    "page": "https://esahubble.org/images/heic2017a/",
+    "title": "Hubble&#39;s View of Jupiter and Europa in August 2020",
+    "credit": "Credit: NASA, ESA, A. Simon (Goddard Space Flight Center), and M. H. Wong (University of California, Berkeley) and the OPAL team.",
+    "resources": [
+      "https://cdn.esahubble.org/archives/images/screen/heic2017a.jpg"
+    ]
+  },
+  {
+    "id": "saturn",
+    "page": "https://esahubble.org/images/heic1917a/",
+    "title": "Latest Saturn Portrait",
+    "credit": "Credit: NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)",
+    "resources": [
+      "https://cdn.esahubble.org/archives/images/screen/heic1917a.jpg"
+    ]
+  },
+  {
+    "id": "uranus",
+    "page": "https://esawebb.org/images/weic2308a/",
+    "title": "Exoplanet VHS 1256 b and its stars (illustration)",
+    "credit": "Credit: NASA, ESA, CSA, J. Olmsted (STScI)",
+    "resources": [
+      "https://cdn.esawebb.org/archives/images/screen/weic2308a.jpg"
+    ]
+  },
+  {
+    "id": "neptune",
+    "page": "https://esawebb.org/images/weic2214a/",
+    "title": "Neptune Close-Up (NIRCam Image)",
+    "credit": "Credit: NASA, ESA, CSA, and STScI",
+    "resources": [
+      "https://cdn.esawebb.org/archives/images/screen/weic2214a.jpg"
+    ]
+  }
+]
